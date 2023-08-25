@@ -1,30 +1,37 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "ADA-Oeffentliche-Verwaltung-Website",
-    "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+    "objectID": "index.html#workshop-serie",
+    "href": "index.html#workshop-serie",
+    "title": "Angewandte Datenanalyse für die öffentliche Verwaltung",
+    "section": "Workshop-Serie",
+    "text": "Workshop-Serie\nIn der öffentlichen Verwaltung liegen vielfältige Daten vor. Daneben gibt es eine Vielzahl öffentlich nutzbarer externer Datenquellen. Zusätzlich ist offene und frei verfügbare Software (zum Beispiel R)—vom Daten sammeln, für statistische Analysen, Machine Learning Modelle, Anwendungen von Künstlicher Intelligenz, bis zum Ergebnisreporting—der neue Standard in Wissenschaft und Industrie.\nDie Kombination aus vielfältigen Datenquellen und vielseitiger Software birgt ein großes Potential für die öffentliche Verwaltung.\nIn der Praxis müssen von der Idee bis zur Umsetzung von Datenprojekten viele Hürden genommen werden. Unser Ziel der Workshop-Serie Angewandte Datenanalyse (ADA) für die öffentliche Verwaltung ist, dass Daten in der öffentlichen Verwaltung effektiver genutzt werden. Wir wollen Beschäftigte im öffentlichen Sektor zum (besseren) Umgang mit Daten befähigen, die Datenkompetenz stärken, und so zur verstärkten Umsetzung von Datenprojekten beitragen. Anhand von konkreten Beispielen aus der Verwaltungspraxis möchten wir Digitalisierung greifbar und interaktiv erlebbar machen.\nHier können Sie sich für die Workshop-Serie anmelden."
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
+    "objectID": "Modul_1.html",
+    "href": "Modul_1.html",
+    "title": "1  Einführung, Problemerfassung und Daten verstehen",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "Text und Links"
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
+    "objectID": "Modul_2.html",
+    "href": "Modul_2.html",
+    "title": "2  Einführung, Problemerfassung und Daten verstehen",
     "section": "",
-    "text": "In summary, this book has no content whatsoever."
+    "text": "Text und Links"
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
+    "objectID": "Modul_3.html",
+    "href": "Modul_3.html",
+    "title": "3  Einführung, Problemerfassung und Daten verstehen",
     "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "Text und Links"
+  },
+  {
+    "objectID": "Modul_4.html",
+    "href": "Modul_4.html",
+    "title": "4  Einführung, Problemerfassung und Daten verstehen",
+    "section": "",
+    "text": "Text und Links"
   }
 ]
