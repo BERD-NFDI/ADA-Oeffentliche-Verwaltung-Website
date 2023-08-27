@@ -4,34 +4,83 @@
     "href": "index.html#workshop-serie",
     "title": "Angewandte Datenanalyse für die öffentliche Verwaltung",
     "section": "Workshop-Serie",
-    "text": "Workshop-Serie\nIn der öffentlichen Verwaltung liegen vielfältige Daten vor. Daneben gibt es eine Vielzahl öffentlich nutzbarer externer Datenquellen. Zusätzlich ist offene und frei verfügbare Software (zum Beispiel R)—vom Daten sammeln, für statistische Analysen, Machine Learning Modelle, Anwendungen von Künstlicher Intelligenz, bis zum Ergebnisreporting—der neue Standard in Wissenschaft und Industrie.\nDie Kombination aus vielfältigen Datenquellen und vielseitiger Software birgt ein großes Potential für die öffentliche Verwaltung.\nIn der Praxis müssen von der Idee bis zur Umsetzung von Datenprojekten viele Hürden genommen werden. Unser Ziel der Workshop-Serie Angewandte Datenanalyse (ADA) für die öffentliche Verwaltung ist, dass Daten in der öffentlichen Verwaltung effektiver genutzt werden. Wir wollen Beschäftigte im öffentlichen Sektor zum (besseren) Umgang mit Daten befähigen, die Datenkompetenz stärken, und so zur verstärkten Umsetzung von Datenprojekten beitragen. Anhand von konkreten Beispielen aus der Verwaltungspraxis möchten wir Digitalisierung greifbar und interaktiv erlebbar machen.\nHier können Sie sich für die Workshop-Serie anmelden."
+    "text": "Workshop-Serie\n\n\n\nIn der öffentlichen Verwaltung liegen vielfältige Daten vor. Daneben gibt es eine Vielzahl öffentlich nutzbarer externer Datenquellen. Zusätzlich ist offene und frei verfügbare Software (zum Beispiel R)—vom Daten sammeln, für statistische Analysen, Machine Learning Modelle, Anwendungen von Künstlicher Intelligenz, bis zum Ergebnisreporting—der neue Standard in Wissenschaft und Industrie.\nDie Kombination aus vielfältigen Datenquellen und vielseitiger Software birgt ein großes Potential für die öffentliche Verwaltung.\nIn der Praxis müssen von der Idee bis zur Umsetzung von Datenprojekten viele Hürden genommen werden. Unser Ziel der Workshop-Serie Angewandte Datenanalyse (ADA) für die öffentliche Verwaltung ist, dass Daten in der öffentlichen Verwaltung effektiver genutzt werden. Wir wollen Beschäftigte im öffentlichen Sektor zum (besseren) Umgang mit Daten befähigen, die Datenkompetenz stärken, und so zur verstärkten Umsetzung von Datenprojekten beitragen. Anhand von konkreten Beispielen aus der Verwaltungspraxis möchten wir Digitalisierung greifbar und interaktiv erlebbar machen.\nHier können Sie sich für die Workshop-Serie anmelden."
   },
   {
-    "objectID": "Modul_1.html",
-    "href": "Modul_1.html",
+    "objectID": "Modul_1.html#gliederung",
+    "href": "Modul_1.html#gliederung",
     "title": "1  Einführung, Problemerfassung und Daten verstehen",
-    "section": "",
-    "text": "Text und Links"
+    "section": "1.1 Gliederung",
+    "text": "1.1 Gliederung\n\nIntro\nWie sehen die ForumSTAR Daten aus, bevor sie zur csv-Datei werden? Was ist eine relationale Datenbank?\nOpen Data, FAIR Data, FAIR vs Open\nEintragung von Rechtspfleger:innen u.ä., Internet\nWebscraping/APIs: Bekannte Persönlichkeiten\nLinkage: Verbinden von verschiedenen Datenquellen: z.B. ForumSTAR-csv mit WikiData"
   },
   {
-    "objectID": "Modul_2.html",
-    "href": "Modul_2.html",
-    "title": "2  Einführung, Problemerfassung und Daten verstehen",
-    "section": "",
-    "text": "Text und Links"
+    "objectID": "Modul_1.html#lernziele",
+    "href": "Modul_1.html#lernziele",
+    "title": "1  Einführung, Problemerfassung und Daten verstehen",
+    "section": "1.2 Lernziele",
+    "text": "1.2 Lernziele\n\nProblemstellung - Daten nutzen, um eigene Probleme zu lösen.\nInventar eigener Daten\n\nWas sind Daten?\nWas ist der Wert von Daten?\nWie ist der Wert messbar?\nWas kann mit den verfügbaren Daten erreicht werden und was nicht?\n\nDie Daten verstehen und sammeln\n\nWie entstehen die verfügbaren Daten?\nWelche externen Datenquellen können genutzt werden?\nWie können externe Daten gesammelt werden? Daten aus dem Internet, Open Data, und co.\nWie können interne und externe Daten zusammen genutzt werden?\n\nPreview Potentiale sehen"
   },
   {
-    "objectID": "Modul_3.html",
-    "href": "Modul_3.html",
-    "title": "3  Einführung, Problemerfassung und Daten verstehen",
-    "section": "",
-    "text": "Text und Links"
+    "objectID": "Modul_1.html#material",
+    "href": "Modul_1.html#material",
+    "title": "1  Einführung, Problemerfassung und Daten verstehen",
+    "section": "1.3 Material",
+    "text": "1.3 Material\n\nSlides"
   },
   {
-    "objectID": "Modul_4.html",
-    "href": "Modul_4.html",
-    "title": "4  Einführung, Problemerfassung und Daten verstehen",
-    "section": "",
-    "text": "Text und Links"
+    "objectID": "Modul_2.html#gliederung",
+    "href": "Modul_2.html#gliederung",
+    "title": "2  Einführung, Umgang mit Arbeitsumgebung, Software und Datenanalyse (Intro Stats/ML/KI + konkretes Anwendungsbeispiel)",
+    "section": "2.1 Gliederung",
+    "text": "2.1 Gliederung\n\nEinstieg R und Workbook Intro\nÜberblick ForumSTAR-Excel\nAnalyseplan für die Stichprobenziehung\nDatenprobleme angehen: fehlende Werte und co."
+  },
+  {
+    "objectID": "Modul_2.html#lernziele",
+    "href": "Modul_2.html#lernziele",
+    "title": "2  Einführung, Umgang mit Arbeitsumgebung, Software und Datenanalyse (Intro Stats/ML/KI + konkretes Anwendungsbeispiel)",
+    "section": "2.2 Lernziele",
+    "text": "2.2 Lernziele\n\nPotentiale erkennen\n\nÜberblick über Tools\nSichere Arbeitsumgebung\n\nMit den Daten arbeiten\nDie Daten analysieren (I)\n\nWelche Analyse soll durchgeführt werden?\nDaten vorbereiten\nDaten analysieren"
+  },
+  {
+    "objectID": "Modul_2.html#material",
+    "href": "Modul_2.html#material",
+    "title": "2  Einführung, Umgang mit Arbeitsumgebung, Software und Datenanalyse (Intro Stats/ML/KI + konkretes Anwendungsbeispiel)",
+    "section": "2.3 Material",
+    "text": "2.3 Material\n\nSlides"
+  },
+  {
+    "objectID": "Modul_3.html#gliederung",
+    "href": "Modul_3.html#gliederung",
+    "title": "3  Nachvollziehbares Reporting, Visualisierung und Dashboards",
+    "section": "3.1 Gliederung",
+    "text": "3.1 Gliederung\n\nVisualisierung der ForumSTAR Daten\nVisualisierung der Analyse (Stichprobenziehung)\nBest practices für Visualisierungen\nÜberblick über Dashboards ## Lernziele\n\n\nGrafische Datenanalyse\n\nKommunizieren über Grafiken: Balkendiagramme, Karten und co.\nBest practices für Visualisierungen\n\nErgebnisse kommunizieren\n\nWorkbooks für Reporting verwenden\nDashboards/Shiny"
+  },
+  {
+    "objectID": "Modul_3.html#material",
+    "href": "Modul_3.html#material",
+    "title": "3  Nachvollziehbares Reporting, Visualisierung und Dashboards",
+    "section": "3.2 Material",
+    "text": "3.2 Material\n\nSlides"
+  },
+  {
+    "objectID": "Modul_4.html#gliederung",
+    "href": "Modul_4.html#gliederung",
+    "title": "4  Mehr Datenanalyse, Ergebnisse in bestehende Prozesse einbauen, Operationalisieren und rechtlicher Rahmen",
+    "section": "4.1 Gliederung",
+    "text": "4.1 Gliederung\n\nIdentifikation von bekannten Persönlichkeiten\nMachine Learning: Können wir lernen “Was wird vermutlich in Zukunft von Interesse sein?”\nRechtlicher Rahmen"
+  },
+  {
+    "objectID": "Modul_4.html#lernziele",
+    "href": "Modul_4.html#lernziele",
+    "title": "4  Mehr Datenanalyse, Ergebnisse in bestehende Prozesse einbauen, Operationalisieren und rechtlicher Rahmen",
+    "section": "4.2 Lernziele",
+    "text": "4.2 Lernziele\n\nDie Daten analysieren (II)\n\nWelche Analyse soll durchgeführt werden?\n\nRechtlicher Rahmen\n\nWas muss bedacht werden?\nPrivacy und Datenschutz\nLizenzen\n\nWie können die Ergebnisse in bestehende Prozesse eingebaut werden?\n\nWer braucht was, wann, wo?"
+  },
+  {
+    "objectID": "Modul_4.html#material",
+    "href": "Modul_4.html#material",
+    "title": "4  Mehr Datenanalyse, Ergebnisse in bestehende Prozesse einbauen, Operationalisieren und rechtlicher Rahmen",
+    "section": "4.3 Material",
+    "text": "4.3 Material\n\nSlides"
   }
 ]
