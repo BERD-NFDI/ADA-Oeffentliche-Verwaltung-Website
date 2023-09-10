@@ -6,7 +6,7 @@
 * Identifikation von bekannten Persönlichkeiten
 * Machine Learning: Können wir lernen “Was wird vermutlich in Zukunft von Interesse sein?”
 * Rechtlicher Rahmen 
-
+ 
 ## Lernziele 
 ::: {.callout-tip collapse="true"}
 ## Die Daten analysieren (II)
