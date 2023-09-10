@@ -4,21 +4,14 @@
     "href": "index.html#workshop-serie",
     "title": "Angewandte Datenanalyse für die öffentliche Verwaltung",
     "section": "Workshop-Serie",
-    "text": "Workshop-Serie\n\n\n\n\n\nIn der öffentlichen Verwaltung liegen vielfältige Daten vor. Daneben gibt es eine Vielzahl öffentlich nutzbarer externer Datenquellen. Zusätzlich ist offene und frei verfügbare Software (zum Beispiel R)—vom Daten sammeln, für statistische Analysen, Machine Learning Modelle, Anwendungen von Künstlicher Intelligenz, bis zum Ergebnisreporting—der neue Standard in Wissenschaft und Industrie.\nDie Kombination aus vielfältigen Datenquellen und vielseitiger Software birgt ein großes Potential für die öffentliche Verwaltung.\nIn der Praxis müssen von der Idee bis zur Umsetzung von Datenprojekten viele Hürden genommen werden. Unser Ziel der Workshop-Serie Angewandte Datenanalyse (ADA) für die öffentliche Verwaltung ist, dass Daten in der öffentlichen Verwaltung effektiver genutzt werden. Wir wollen Beschäftigte im öffentlichen Sektor zum (besseren) Umgang mit Daten befähigen, die Datenkompetenz stärken, und so zur verstärkten Umsetzung von Datenprojekten beitragen. Anhand von konkreten Beispielen aus der Verwaltungspraxis möchten wir Digitalisierung greifbar und interaktiv erlebbar machen.\nHier können Sie sich für die Workshop-Serie anmelden."
+    "text": "Workshop-Serie\n\n\n\n\n\nIn der öffentlichen Verwaltung liegen vielfältige Daten vor. Daneben gibt es eine Vielzahl öffentlich nutzbarer externer Datenquellen. Zusätzlich ist offene und frei verfügbare Software (zum Beispiel R)—vom Daten sammeln, für statistische Analysen, Machine Learning Modelle, Anwendungen von Künstlicher Intelligenz, bis zum Ergebnisreporting—der neue Standard in Wissenschaft und Industrie.\nDie Kombination aus vielfältigen Datenquellen und vielseitiger Software birgt ein großes Potential für die öffentliche Verwaltung.\nIn der Praxis müssen von der Idee bis zur Umsetzung von Datenprojekten viele Hürden genommen werden. Unser Ziel der Workshop-Serie Angewandte Datenanalyse (ADA) für die öffentliche Verwaltung ist, dass Daten in der öffentlichen Verwaltung effektiver genutzt werden. Wir wollen Beschäftigte im öffentlichen Sektor zum (besseren) Umgang mit Daten befähigen, die Datenkompetenz stärken, und so zur verstärkten Umsetzung von Datenprojekten beitragen. Anhand von konkreten Beispielen aus der Verwaltungspraxis möchten wir Digitalisierung greifbar und interaktiv erlebbar machen.\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieser Workshop-Serie, können Sie…\n\n… einschätzen, welche Fragen in Ihrem Umfeld mit Daten beanwortet werden können.\n… in Projekten mit Daten ihre Fachexpertise einbringen, ohne Berührungsängste zu haben.\n… mit Data Scientists und IT-Personal über Cloud-Computing und Datenanalysen sprechen.\n\n\n\nHier können Sie sich für die Workshop-Serie anmelden."
   },
   {
     "objectID": "Modul_1.html#themen",
     "href": "Modul_1.html#themen",
     "title": "1  Einführung, Problemerfassung und Daten verstehen",
     "section": "Themen",
-    "text": "Themen\n\nIntro\nWie sehen die ForumSTAR Daten aus, bevor sie zur csv-Datei werden? Was ist eine relationale Datenbank?\nOpen Data, FAIR Data, FAIR vs Open\nEintragung von Rechtspfleger:innen u.ä., Internet\nWebscraping/APIs: Bekannte Persönlichkeiten\nLinkage: Verbinden von verschiedenen Datenquellen: z.B. ForumSTAR-csv mit WikiData\n\n\n\n\n\nFAIR prinicples"
-  },
-  {
-    "objectID": "Modul_1.html#lernziele",
-    "href": "Modul_1.html#lernziele",
-    "title": "1  Einführung, Problemerfassung und Daten verstehen",
-    "section": "Lernziele",
-    "text": "Lernziele\n\n\n\n\n\n\nProblemstellung - Daten nutzen, um eigene Probleme zu lösen.\n\n\n\n\n\n\n\n\n\n\n\n\nInventar eigener Daten\n\n\n\n\n\n\nWas sind Daten?\nWas ist der Wert von Daten?\nWie ist der Wert messbar?\nWas kann mit den verfügbaren Daten erreicht werden und was nicht?\n\n\n\n\n\n\n\n\n\n\nDaten verstehen und sammeln\n\n\n\n\n\n\nWie entstehen die verfügbaren Daten?\nWelche externen Datenquellen können genutzt werden?\nWie können externe Daten gesammelt werden? Daten aus dem Internet, Open Data, und co.\nWie können interne und externe Daten zusammen genutzt werden?\n\n\n\n\n\n\n\n\n\n\nPreview Potentiale sehen"
+    "text": "Themen\n\nIntro\nWie sehen die ForumSTAR Daten aus, bevor sie zur csv-Datei werden? Was ist eine relationale Datenbank?\nOpen Data, FAIR Data, FAIR vs Open\nEintragung von Rechtspfleger:innen u.ä., Internet\nWebscraping/APIs: Bekannte Persönlichkeiten\nLinkage: Verbinden von verschiedenen Datenquellen: z.B. ForumSTAR-csv mit WikiData\n\n\n\n\n\nFAIR prinicples\n\n\n\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieses Moduls können Sie…\n\n… beschreiben, was Evidenzbasierte Verwaltung ist.\n… einschätzen, wann Evidenzbasierte Verwaltung genutzt werden kann.\n… einige Fragen benennen, die man mit Daten beantworten kann.\n… Probleme schildern, die in Ihrem Umfeld mit Daten gelöst werden könnten"
   },
   {
     "objectID": "Modul_1.html#material",
@@ -84,10 +77,31 @@
     "text": "Lernziele\n\n\n\n\n\n\nDie Daten analysieren (II)\n\n\n\n\n\n\nWelche Analyse soll durchgeführt werden?\n\n\n\n\n\n\n\n\n\n\nRechtlicher Rahmen\n\n\n\n\n\n\nWas muss bedacht werden?\nPrivacy und Datenschutz\nLizenzen\n\n\n\n\n\n\n\n\n\n\nWie können die Ergebnisse in bestehende Prozesse eingebaut werden?\n\n\n\n\n\n\nWer braucht was, wann, wo?"
   },
   {
+    "objectID": "Modul_4.html#lernziele-1",
+    "href": "Modul_4.html#lernziele-1",
+    "title": "4  Mehr Datenanalyse, Ergebnisse in bestehende Prozesse einbauen, Operationalisieren und rechtlicher Rahmen",
+    "section": "Lernziele",
+    "text": "Lernziele\n\n\n\n\n\n\nDie Daten analysieren (II)\n\n\n\n\n\n\nWelche Analyse soll durchgeführt werden?\n\n\n\n\n\n\n\n\n\n\nRechtlicher Rahmen\n\n\n\n\n\n\nWas muss bedacht werden?\nPrivacy und Datenschutz\nLizenzen\n\n\n\n\n\n\n\n\n\n\nWie können die Ergebnisse in bestehende Prozesse eingebaut werden?\n\n\n\n\n\n\nWer braucht was, wann, wo?"
+  },
+  {
     "objectID": "Modul_4.html#material",
     "href": "Modul_4.html#material",
     "title": "4  Mehr Datenanalyse, Ergebnisse in bestehende Prozesse einbauen, Operationalisieren und rechtlicher Rahmen",
     "section": "Material",
     "text": "Material\n\nSlides"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "5  Team",
+    "section": "",
+    "text": "Dr. Heidi Seibold\nHeidi Seibold ist Trainerin und Beraterin für Open and Reproducible Research und unabhängige Wissenschaftlerin bei IGDORE. Sie ist eine Co-Gründerin von Open Science Freelancers. Ihre Forschung liegt in der Schnittmenge von Datenwissenschaft, Reproduzierbarkeit und Medizin. Heidi Seibold hat Statistik studiert und in Biostatistik mit einem Schwerpunkt auf maschinellem Lernen promoviert. In ihrem Podcast “reboot academia” und ihrem beliebten Newsletter spricht sie über Open Science, gute Wissenschaft und die Zukunft der Forschung.\nMalte Schierholz ist Postdoktorand am Lehrstuhl für Statistik und Data Science für die Sozial- und Geisteswissenschaften an der Ludwig-Maximilians-Universität München. Er ist Teil des nationalen Forschungsdateninfrastruktur Projekts BERD@NFDI, wo er Schulungen für Sozialwissenschaftler:innen entwirft, die unstrukturierte (große) Daten wie Bilder und Textdaten für ihre Analysen nutzen wollen. Ein übergreifendes Thema von Malte Schierholz’ Arbeit ist, dass er gerne darüber nachdenkt, wie Sozialwissenschaftler:innen die Versprechen und Vorteile des maschinellen Lernens am besten nutzen können.\nMarcel Neunhoeffer ist Postdoktorand am Lehrstuhl für Statistik und Data Science für die Sozial- und Geisteswissenschaften an der Ludwig-Maximilians-Universität München. Er forscht an der Schnittstelle von Sozialwissenschaften und Informatik. Marcel Neunhoeffer interessiert sich insbesondere für die Anwendung von Deep-Learning-Algorithmen auf sozialwissenschaftliche Problemstellungen. Sein Fokus liegt dabei auf dem Einsatz von synthetischen Daten und differential privacy um Datenanalyse und Datenschutz auszubalancieren. Darüber hinaus ist Marcel Neunhoeffer Mitbegründer, Mitwirkender und Visualisierer von zweitstimme.org - einer Website, die eine wissenschaftliche Prognose zur Bundestagswahl einem breiten Publikum vermittelt.\nFelix Henninger ist wissenschaftlicher Mitarbeiter und Softwareentwickler am Lehrstuhl für Statistik und Data Science für die Sozial- und Geisteswissenschaften an der Ludwig-Maximilians-Universität München. Sein Ziel ist es, fortgeschrittene Methoden der Datenerfassung und -analyse für Forscher:innen und Praktiker:innen zugänglich zu machen."
+  },
+  {
+    "objectID": "team.html#prof.-dr.-frauke-kreuter",
+    "href": "team.html#prof.-dr.-frauke-kreuter",
+    "title": "5  Team",
+    "section": "Prof. Dr. Frauke Kreuter",
+    "text": "Prof. Dr. Frauke Kreuter\n\n\n\nFrauke Kreuter ist Inhaberin des Lehrstuhls für Statistik und Datenwissenschaft an der LMU München, und an der University of Maryland, USA, ist sie Co-Direktorin des Social Data Science Center (SoDa) und Fakultätsmitglied im Joint Program in Survey Methodology (JPSM). Sie ist eine gewählte Fellow der American Statistical Association und erhielt 2020 den Warren Mitofsky Innovators Award der American Association for Public Opinion Research. Neben ihrer akademischen Arbeit ist Frauke Kreuter Gründerin des International Program for Survey and Data Science (IPSDS), das als Reaktion auf die steigende Nachfrage von Forscher:innen und Parktiker:innen nach geeigneten Methoden und Instrumenten für ein sich veränderndes Datenumfeld entwickelt wurde. Sie ist außerdem Mitbegründerin der Coleridge Initiative, deren Ziel es ist, datengestützte Forschung und Politik rund um den Menschen und seine Interaktionen für Programmmanagement, Politikentwicklung und wissenschaftliche Zwecke zu beschleunigen, indem ein effizienter, effektiver und sicherer Zugang zu sensiblen Daten über Gesellschaft und Wirtschaft ermöglicht wird; und Mitbegründerin des deutschsprachigen Podcasts Dig Deep."
   }
 ]
