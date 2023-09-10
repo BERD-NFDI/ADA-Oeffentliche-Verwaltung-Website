@@ -26,6 +26,25 @@
 :::
 
 
+## Lernziele 
+::: {.callout-tip collapse="true"}
+## Die Daten analysieren (II)
+- Welche Analyse soll durchgeführt werden?
+:::
+
+::: {.callout-tip collapse="true"}
+## Rechtlicher Rahmen
+- Was muss bedacht werden?
+- Privacy und Datenschutz
+- Lizenzen
+:::
+
+::: {.callout-tip collapse="true"}
+## Wie können die Ergebnisse in bestehende Prozesse eingebaut werden?
+- Wer braucht was, wann, wo?
+:::
+
+
 
 ## Material
 * [Slides](google.com)

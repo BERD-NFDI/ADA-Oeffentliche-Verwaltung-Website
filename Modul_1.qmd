@@ -15,7 +15,6 @@
 ![FAIR prinicples](icons/fair.jpg){width=60% fig-alt="F=findable, A=accessible, I=interoperable, R=reusable"}
 :::
 
-
 ::: {.callout-tip}
 ## Lernziele
 Am Ende dieses Moduls können Sie...
@@ -25,8 +24,6 @@ Am Ende dieses Moduls können Sie...
 * ... einige Fragen benennen, die man mit Daten beantworten kann.
 * ... Probleme schildern, die in Ihrem Umfeld mit Daten gelöst werden könnten
 :::
-
-
 
 ## Material
 * [Slides](https://docs.google.com/presentation/d/1-v_uc1GCfBuG2XZwmrzhS-vrZnmA897JUzh6nugfyc4/edit?usp=sharing)
