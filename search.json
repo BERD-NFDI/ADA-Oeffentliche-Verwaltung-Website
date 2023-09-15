@@ -28,11 +28,25 @@
     "text": "Themen\nIn Modul 1 setzen wir den Rahmen, um Probleme zu erfassen und vorliegende Daten zu verstehen. Es werden keine Vorkenntnisse in der Datenanalyse erwartet. Sie können sich auf folgende Themen freuen:\n\nEinführung in die Workshop-Serie\nDatenarbeit als Teamarbeit\nEvidenzbasierte Verwaltung\nBeantwortung von Fragen mit Daten\nDaten: Was ist das eigentlich?\nDatenquellen und Entstehung von Daten\nSicher mit Daten arbeiten: Cloud-Computing als Möglichkeit\n\n \n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieses Moduls können Sie…\n\n… beschreiben, was Evidenzbasierte Verwaltung ist.\n… einschätzen, wann Evidenzbasierte Verwaltung genutzt werden kann.\n… einige Fragen benennen, die man mit Daten beantworten kann.\n… Probleme schildern, die in Ihrem Umfeld mit Daten gelöst werden könnten"
   },
   {
+    "objectID": "Modul_1.html#material",
+    "href": "Modul_1.html#material",
+    "title": "1  Problemerfassung und Daten als Lösung",
+    "section": "Material",
+    "text": "Material\n\nSlides"
+  },
+  {
     "objectID": "Modul_2.html#themen",
     "href": "Modul_2.html#themen",
     "title": "2  Cloud-Computing und Datenanalyse",
     "section": "Themen",
     "text": "Themen\nIn Modul 2 beginnen wir mit der Einführung in die benötigte Software und Arbeitsumgebung. Es werden keine Vorkenntnisse in der Datenanalyse erwartet. Sie können sich auf folgende Themen freuen:\n\nErste Schritte im Cloud-Computing\nÜberblick über die vorliegenden Daten\nErste Analysen mit der Software R\nUmgang mit Daten(problemen)\nStichprobenziehung als Strategie\n\n\n\n\n\nVisualisierung einer geschichteten Zufallsstichprobe\n\n\n\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieses Moduls können Sie…\nPotentiale erkennen\n\n… Cloud-Computing als Möglichkeit für sichere Datenanalyse einschätzen.\n… in der Cloud-Arbeitsumgebung arbeiten.\n\nDie Daten analysieren (I)\n\n… die Daten vorbereiten und verstehen.\n… erste Datenanalysen durchführung und die Ergebnisse interpretieren.\n… eine Entscheidung über eine gute Strategie für die Stichprobenziehung fällen."
+  },
+  {
+    "objectID": "Modul_2.html#material",
+    "href": "Modul_2.html#material",
+    "title": "2  Cloud-Computing und Datenanalyse",
+    "section": "Material",
+    "text": "Material\n\nMaterialien werden hier zu einem späteren Zeitpunkt verlinkt"
   },
   {
     "objectID": "Modul_3.html#themen",
@@ -42,11 +56,25 @@
     "text": "Themen\nIn Modul 3 werden die Guidelines für nachvollziehbares Reporting und gute Visualisierungen besprochen. Es werden keine Vorkenntnisse in der Datenanalyse erwartet. Sie können sich auf folgende Themen freuen:\n\nVisualisierung der vorliegenden Daten\nVisualisierung der Analyse (Stichprobenziehung)\nBest practices für Visualisierungen\nÜberblick über Reporting und Dashboards für Datenanalyse-Projekte\n\n\n\n\n\nAnzahl der Fälle pro Amtsgerichtbezirk\n\n\n\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieses Moduls können Sie…\nGrafische Datenanalyse\n\n… Ergebnisse über Grafiken kommunizieren (Balkendiagramme, Karten und co.).\n… gute Beispiele für Datenvisualisierungen erkennen.\n\nErgebnisse kommunizieren\n\n… Notebooks für Reporting verwenden.\n… einschätzen, wann Dashboards nützlich sind für die Kommunikation von Datenanalysen."
   },
   {
+    "objectID": "Modul_3.html#material",
+    "href": "Modul_3.html#material",
+    "title": "3  Visualisierung und Reporting",
+    "section": "Material",
+    "text": "Material\n\nMaterialien werden hier zu einem späteren Zeitpunkt verlinkt"
+  },
+  {
     "objectID": "Modul_4.html#themen",
     "href": "Modul_4.html#themen",
     "title": "4  Ergebnispräsentation und Umsetzung",
     "section": "Themen",
     "text": "Themen\nIn Modul 4 besprechen wir Möglichkeiten, wie Ergebnisse in bestehende Prozesse eingebaut werden können. Sie können sich auf folgende Themen freuen:\n\nFallstudie: Identifikation von bekannten Persönlichkeiten\nMachine Learning: Können wir lernen “Was wird vermutlich in Zukunft von Interesse sein?”\nEinblick in den rechtlichen Rahmen von Datenanalyseprojekten\n\n\n\n\n\n\nDes weiteren präsentieren die Teams ihre Ergebnisse und Zukunftsvisionen.\n\n\n\n\n\n\nProjektvorstellung\n\n\n\nJedes Team präsentiert drei Folien:\n\nDie Ergebnisse der Datenanalyse\nEin Plan für die Umsetzung der vorgeschlagenen Analyse in die Praxis.\nEine Zukunftsvision: Was bräuchte man noch für das “perfekte” Archivierungs-System?\n\n\n\n\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieses Moduls können Sie…\n\n… externe Datenquellen hinsichtlich ihres Nutzens beurteilen.\n… die Möglichkeiten und Grenzen der Record Linkage Methode einschätzen.\n… Datenprojekte präsentieren und deren Nutzen einordnen.\n… einschätzen, was rechtlich in einem solchen Projekt beachtet werden muss."
+  },
+  {
+    "objectID": "Modul_4.html#material",
+    "href": "Modul_4.html#material",
+    "title": "4  Ergebnispräsentation und Umsetzung",
+    "section": "Material",
+    "text": "Material\n\nMaterialien werden hier zu einem späteren Zeitpunkt verlinkt"
   },
   {
     "objectID": "team.html",
