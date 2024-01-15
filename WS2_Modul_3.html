@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Angewandte Datenanalyse für die öffentliche Verwaltung - 2&nbsp; Cloud-Computing und Datenanalyse</title>
+<title>Angewandte Datenanalyse für die öffentliche Verwaltung - 7&nbsp; Umsetzung: Implementierung der Stichprobenziehung im Kontext des Gesamtablaufs</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./Modul_3.html" rel="next">
-<link href="./Modul_1.html" rel="prev">
+<link href="./WS2_Modul_4.html" rel="next">
+<link href="./WS2_Modul_2.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -86,7 +86,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./WS1.html">Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten</a></li><li class="breadcrumb-item"><a href="./Modul_2.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Cloud-Computing und Datenanalyse</span></a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./WS2.html">Workshop Serie 2: Implementation Daten-basierter Archivierung von Gerichtsakten</a></li><li class="breadcrumb-item"><a href="./WS2_Modul_3.html"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Umsetzung: Implementierung der Stichprobenziehung im Kontext des Gesamtablaufs</span></a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -127,7 +127,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Modul_2.html" class="sidebar-item-text sidebar-link active">
+  <a href="./Modul_2.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Cloud-Computing und Datenanalyse</span></span></a>
   </div>
 </li>
@@ -168,7 +168,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./WS2_Modul_3.html" class="sidebar-item-text sidebar-link">
+  <a href="./WS2_Modul_3.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Umsetzung: Implementierung der Stichprobenziehung im Kontext des Gesamtablaufs</span></span></a>
   </div>
 </li>
@@ -238,21 +238,14 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active" data-toc-expanded="-1">
-    <h2 id="toc-title">Inhalt</h2>
-   
-  <ul>
-  <li><a href="#themen" id="toc-themen" class="nav-link active" data-scroll-target="#themen">Themen</a></li>
-  <li><a href="#material" id="toc-material" class="nav-link" data-scroll-target="#material">Material</a></li>
-  </ul>
-</nav>
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Cloud-Computing und Datenanalyse</span></h1>
+<h1 class="title"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Umsetzung: Implementierung der Stichprobenziehung im Kontext des Gesamtablaufs</span></h1>
 </div>
 
 
@@ -267,28 +260,6 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p align="center">
-<img src="icons/software.png" width="80" height="80" class="center">
-</p>
-<p><strong>19.09.2023, 10:00 - 15:00 Uhr</strong></p>
-<section id="themen" class="level2">
-<h2 class="anchored" data-anchor-id="themen">Themen</h2>
-<p>In <strong>Modul 2</strong> beginnen wir mit der Einführung in die benötigte Software und Arbeitsumgebung. Es werden keine Vorkenntnisse in der Datenanalyse erwartet. Sie können sich auf folgende Themen freuen:</p>
-<ul>
-<li>Erste Schritte im Cloud-Computing</li>
-<li>Überblick über die vorliegenden Daten</li>
-<li>Erste Analysen mit der Software <em>R</em></li>
-<li>Umgang mit Daten(problemen)</li>
-<li>Stichprobenziehung als Strategie</li>
-</ul>
-<div class="captioned-image-container">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="icons/Stichprobe.jpg" class="img-fluid figure-img" style="width:100.0%" alt="Visualisierung einer Zufallsstichprobe"></p>
-<figcaption class="figure-caption">Visualisierung einer Zufallsstichprobe</figcaption>
-</figure>
-</div>
-</div>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -300,93 +271,15 @@ Lernziele
 </div>
 <div class="callout-body-container callout-body">
 <p>Am Ende dieses Moduls können Sie…</p>
-<p><strong>Potentiale erkennen</strong></p>
 <ul>
-<li>… Cloud-Computing als Möglichkeit für sichere Datenanalyse einschätzen.</li>
-<li>… in der Cloud-Arbeitsumgebung arbeiten.</li>
+<li>… die gewählte Strategie für Datensätze aus verschiedenen Jahren umsetzen.</li>
+<li>… Lücken erkennen, die im Projekt zu schließen sind, um die Analysen in das Tagesgeschäft aufzunehmen.</li>
+<li>… die Datenanalysen dokumentieren.</li>
 </ul>
-<p><strong>Die Daten analysieren (I)</strong></p>
-<ul>
-<li>… die Daten vorbereiten und verstehen.</li>
-<li>… erste Datenanalysen durchführung und die Ergebnisse interpretieren.</li>
-<li>… eine Entscheidung über eine gute Strategie für die Stichprobenziehung fällen.</li>
-</ul>
-</div>
-</div>
-</section>
-<section id="material" class="level2">
-<h2 class="anchored" data-anchor-id="material">Material</h2>
-<ul>
-<li><a href="https://drive.google.com/file/d/1cZ5ADPdlUvNiImQXRKiAJhnUkHWliJwm/view?usp=sharing">Slides</a></li>
-<li><a href="./notebooks/ADA_Modul_2_1_Erste-Analysen_anonymisiert.qmd">Notebook 2.1 - Erste Analysen</a></li>
-<li><a href="./notebooks/ADA_Modul_2_2_Einfache_Zufallsstichprobe_anonymisiert.qmd">Notebook 2.2 - Einfache Zufallsstichprobe</a></li>
-<li><a href="./notebooks/ADA_Modul_2_3_Stratifizierte_Stichprobenziehung_anonymisiert.qmd">Notebook 2.3 - Stratifizierte Zufallsstichprobe</a></li>
-</ul>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Anleitung Cloud-Umgebung
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-2" class="callout-2-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<section id="login" class="level3">
-<h3 class="anchored" data-anchor-id="login">Login</h3>
-<ol type="1">
-<li>Navigation zu https://adrf.okta.com</li>
-<li>Username (endet auf <code>@adrf.net</code>) und Passwort eingeben, <code>Sign In</code> klicken</li>
-<li><code>Send me the code</code> klicken und dann den Code eingeben, <code>Verify</code> klicken</li>
-<li><code>ADA Bayern</code> auswählen</li>
-<li><code>Desktop</code> auswählen</li>
-<li>Passwort eingeben, <code>Sign in</code> klicken</li>
-<li>Eine Windows-Oberfläche öffnet sich mit einem Pop-Up Fenster. Dort <code>I Acknowledge</code> auswählen und die Quizfrage beantworten. Dann <code>Submit</code> klicken.</li>
-<li>Das offene Browserfenster kann geschlossen werden.</li>
-</ol>
-</section>
-<section id="erste-nutzung" class="level3">
-<h3 class="anchored" data-anchor-id="erste-nutzung">Erste Nutzung</h3>
-<p>Vor der ersten Nutzung müssen wir die Notebooks in Ihren persönlichen Arbeitsordner kopieren.</p>
-<ol type="1">
-<li><code>File Explorer</code> öffnen.</li>
-<li>Zu <code>projects</code>-Laufwerk (<code>P:</code>) navigieren, darin liegt ein Ordner <code>pr-ada-bayern</code></li>
-<li>Ordner <code>pr-ada-bayern</code> öffnen, darin liegt eine zip-Datei <code>notebooks_utf8_vx.zip</code></li>
-<li>zip-Datei <code>notebooks_utf8_vx.zip</code> kopieren (z.B. Recktsklick -&gt; <code>Copy</code>)</li>
-<li>Zu <code>users</code>-Laufwerk (<code>U:</code>) navigieren, darin liegt ein Ordner mit ihrem Namen (<code>vorname.nachname.id</code>, dies ist ihr Arbeitsordner)</li>
-<li>Ordner mit ihrem Namen (<code>vorname.nachname.id</code>) öffnen und dort die zip-Datei einfügen (z.B. Rechtsklick -&gt; <code>Paste</code>)</li>
-<li>Doppelklick auf die zip-Datei öffnet ein Programm zum ent-zippen</li>
-<li><code>Extract To</code> auswählen und im sich öffnenden Fenster <code>OK</code></li>
-</ol>
-<p>Nun ist ein Ordner in Ihrem Arbeitstsordner der die Notebooks enthält.</p>
-</section>
-<section id="notebooks-öffnen" class="level3">
-<h3 class="anchored" data-anchor-id="notebooks-öffnen">Notebooks öffnen</h3>
-<ol type="1">
-<li><code>File Explorer</code> öffnen.</li>
-<li>Zu <code>users</code>-Laufwerk (<code>U:</code>) navigieren, darin liegt ein Ordner mit ihrem Namen (<code>vorname.nachname.id</code>, dies ist ihr Arbeitsordner)</li>
-<li>Ordner mit ihrem Namen (<code>vorname.nachname.id</code>) öffnen und den Ordner darin (<code>notebooks_utf8_vx</code>, siehe oben) öffnen</li>
-<li>Doppelklick auf <code>Notebooks.Rproj</code> öffnet die Notebooks in RStudio</li>
-</ol>
-</section>
-<section id="arbeit-mit-den-notebooks" class="level3">
-<h3 class="anchored" data-anchor-id="arbeit-mit-den-notebooks">Arbeit mit den Notebooks</h3>
-<ul>
-<li>Wählen Sie das gewünschte Notebook über die Tabs in RStudio aus</li>
-<li>Sie können beliebig Text sowie R-Code ändern</li>
-<li>Code können Sie über den grünen Pfeil am Code-Block ausführen</li>
-</ul>
-<hr>
-<p>Sollte etwas nicht funktionieren, wenden Sie sich bitte an <a href="mailto:data-analytics@stat.uni-muenchen.de">data-analytics@stat.uni-muenchen.de</a>.</p>
-</section>
-</div>
 </div>
 </div>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -624,13 +517,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./Modul_1.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Problemerfassung und Daten als Lösung</span></span>
+      <a href="./WS2_Modul_2.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Umsetzung: Implementierung der Stichprobenziehung</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./Modul_3.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Visualisierung und Reporting</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./WS2_Modul_4.html" class="pagination-link">
+        <span class="nav-page-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Nachhaltige Implementierung: Wissensweitergabe und Infrastrukturerhalt</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

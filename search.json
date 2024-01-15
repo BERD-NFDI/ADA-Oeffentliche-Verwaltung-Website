@@ -81,7 +81,7 @@
     "href": "WS2.html#ablauf",
     "title": "Workshop Serie 2: Implementation Daten-basierter Archivierung von Gerichtsakten",
     "section": "Ablauf",
-    "text": "Ablauf\n\n\n\nVeranstaltung\nDatum\nZeit\n\n\n\n\nKick-Off\n08.02.\n11:00 - 13:00\n\n\nModul 1\n20.02.\n10:00 - 15:30\n\n\nModul 2\n21.02.\n10:00 - 15:30\n\n\nModul 3\n22.02.\n10:00 - 15:30\n\n\nModul 4\n23.02.\n10:00 - 15:30\n\n\nGruppenarbeit 1\n28.02.\n12:00 - 13:30\n\n\nGruppenarbeit 2\n06.03.\n12:00 - 13:30\n\n\nAbschlusstermin\n13.03.\n10:00 - 15:30\n\n\n\nIn dieser Workshop-Serie bauen wir auf die Inhalte der Workshop-Serie 1 auf und setzen das gelernte in die Praxis um. Gemeinsam erarbeiten wir Arbeitsabläufe, die sowohl aus Datenanlyseperspektive als auch aus Perspektive der Staatsarchive und der Justiz IT Sinn ergeben. Denn Datenarbeit ist Teamarbeit und diverse Expertisen sind gefragt.\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieser Workshop-Serie, können Sie…\n\n… Stichprobenziehung für die Archivierung von Gerichtsakten dürchführen.\n… Die Cloud-Infrastruktur für die jährliche Stichprobenziehung nutzen.\n… Die Datenanalyse-Aufgaben für die Archivierung von Gerichtsakten auf neue Daten anpassen."
+    "text": "Ablauf\n\n\n\nVeranstaltung\nDatum\nZeit\n\n\n\n\nKick-Off\n08.02.\n11:00 - 13:00\n\n\nModul 1\n20.02.\n10:00 - 15:30\n\n\nModul 2\n21.02.\n10:00 - 15:30\n\n\nModul 3\n22.02.\n10:00 - 15:30\n\n\nModul 4\n23.02.\n10:00 - 15:30\n\n\nGruppenarbeit 1\n28.02.\n12:00 - 13:30\n\n\nGruppenarbeit 2\n06.03.\n12:00 - 13:30\n\n\nAbschlusstermin\n13.03.\n10:00 - 15:30\n\n\n\nIn dieser Workshop-Serie bauen wir auf die Inhalte der Workshop-Serie 1 auf und setzen das gelernte in die Praxis um. Gemeinsam erarbeiten wir Arbeitsabläufe, die sowohl aus Datenanlyseperspektive als auch aus Perspektive der Staatsarchive und der Justiz IT Sinn ergeben. Denn Datenarbeit ist Teamarbeit und diverse Expertisen sind gefragt.\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieser Workshop-Serie, können Sie…\n\n… Stichprobenziehung für die Archivierung von Gerichtsakten dürchführen.\n… Die Cloud-Infrastruktur für die jährliche Stichprobenziehung nutzen.\n… Die Datenanalyse-Aufgaben für die Archivierung von Gerichtsakten auf neue Daten anpassen.\n\n\n\n\nModul"
   },
   {
     "objectID": "WS2.html#anmeldung",
@@ -89,6 +89,34 @@
     "title": "Workshop Serie 2: Implementation Daten-basierter Archivierung von Gerichtsakten",
     "section": "Anmeldung",
     "text": "Anmeldung\nDie Anmeldung ist derzeit noch nicht geöffnet. Bitte wenden Sie sich an data-analytics@stat.uni-muenchen.de."
+  },
+  {
+    "objectID": "WS2_Modul_1.html",
+    "href": "WS2_Modul_1.html",
+    "title": "5  Einführung, Problemerfassung und Arbeitsabläufe",
+    "section": "",
+    "text": "Lernziele\n\n\n\nAm Ende dieses Moduls können Sie…\n\n… Kontext und Vorarbeiten des Projekts nennen.\n… verstehen, was das Ziel dieses Projekts ist.\n… die Datenanalyse als Teil eines größeren Kontexts beschreiben.\n… die einzelnen Schritte von der Vereinbarung der Datenübertragung bis hin zur Archivierung der einzelnen Akten beschreiben.\n… mit den relevanten Personen in Kontakt treten und einen reibungsarmen Ablauf ermöglichen."
+  },
+  {
+    "objectID": "WS2_Modul_2.html",
+    "href": "WS2_Modul_2.html",
+    "title": "6  Umsetzung: Implementierung der Stichprobenziehung",
+    "section": "",
+    "text": "Lernziele\n\n\n\nAm Ende dieses Moduls können Sie…\n\n… eine Entscheidung über eine gute Strategie für die Stichprobenziehung fällen.\n… die Stichprobe analysieren und visuell darstellen.\n… Schwächen der Strategie einschätzen und verteidigen."
+  },
+  {
+    "objectID": "WS2_Modul_3.html",
+    "href": "WS2_Modul_3.html",
+    "title": "7  Umsetzung: Implementierung der Stichprobenziehung im Kontext des Gesamtablaufs",
+    "section": "",
+    "text": "Lernziele\n\n\n\nAm Ende dieses Moduls können Sie…\n\n… die gewählte Strategie für Datensätze aus verschiedenen Jahren umsetzen.\n… Lücken erkennen, die im Projekt zu schließen sind, um die Analysen in das Tagesgeschäft aufzunehmen.\n… die Datenanalysen dokumentieren."
+  },
+  {
+    "objectID": "WS2_Modul_4.html",
+    "href": "WS2_Modul_4.html",
+    "title": "8  Nachhaltige Implementierung: Wissensweitergabe und Infrastrukturerhalt",
+    "section": "",
+    "text": "Lernziele\n\n\n\nAm Ende dieses Moduls können Sie…\n\n… einen nachhaltigen Prozess etablieren, wie die Daten übertragen, die Analysen durchgeführt und Archivierungsentscheidungen dokumentiert werden.\n… ihr Wissen an andere weitergeben.\n… einschätzen, wie die benötigte Infrastruktur erhalten werden kann."
   },
   {
     "objectID": "WS3.html#ablauf",
