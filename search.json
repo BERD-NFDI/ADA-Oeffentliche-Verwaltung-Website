@@ -296,7 +296,6 @@
     "section": "",
     "text": "Ablauf",
     "crumbs": [
-      "Kommende Workshop-Serien",
       "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten"
     ]
   },
@@ -307,7 +306,6 @@
     "section": "",
     "text": "Veranstaltung\nDatum\nZeit\nOrt\n\n\n\n\nKick-Off\n21.03.\n14:30 - 16:00\nOnline (Zoom)\n\n\nModul 1\n09.04.\n10:00 - 15:30\nLMU\n\n\nModul 2\n10.04.\n10:00 - 15:30\nLMU\n\n\nModul 3\n11.04.\n10:00 - 15:30\nLMU\n\n\nGruppenarbeit 1\n17.04.\n12:00 - 13:30\nOnline (Zoom)\n\n\nGruppenarbeit 2\n24.04.\n12:00 - 13:30\nOnline (Zoom)\n\n\nAbschlusstermin\n30.04.\n10:00 - 15:30\nLMU\n\n\n\n\nOrte\n\nZoom: Der Zoom-Link wird den Teilnehmenden per Mail mitgeteilt. Sollten Sie keine E-Mail erhalten haben, melden Sie sich bitte bei us (siehe Kontakt).\nLMU: Die genauen Räumlichkeiten werden noch bekannt gegeben.\n\n\n\nInhalte\nIn dieser Workshop-Serie betrachten wir alle Bestandteile eines klassischen Daten-Analyse-Projekts. Dabei geht es vor allem darum, Berührungsängste abzubauen und Kompetenzen aufzubauen, um als Team solche Projekte anzugehen. Denn Datenarbeit ist Teamarbeit und diverse Expertisen sind gefragt.\nDiese Workshop-Serie ist eine inhaltliche Wiederholung der Workshop-Serie 1.\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieser Workshop-Serie, können Sie…\n\n… einschätzen, welche Fragen in Ihrem Umfeld mit Daten beanwortet werden können.\n… in Projekten mit Daten ihre Fachexpertise einbringen, ohne Berührungsängste zu haben.\n… mit Data Scientists und IT-Personal über Cloud-Computing und Datenanalysen sprechen.\n\n\n\n\nKick-Off\n\n\n\n\n\n\nKick-Off\n\n\n\nAm Ende des Kick-Offs können Sie…\n\n… das Thema der Workshop-Serie beschreiben.\n… den Kontext des Projekts erklären.\n… auf die Cloud-Plattform zugreifen.",
     "crumbs": [
-      "Kommende Workshop-Serien",
       "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten"
     ]
   },
@@ -318,8 +316,73 @@
     "section": "Anmeldung",
     "text": "Anmeldung\nBitte melden Sie sich über Pretix an.\nFragen gerne an data-analytics@stat.uni-muenchen.de.",
     "crumbs": [
-      "Kommende Workshop-Serien",
       "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten"
+    ]
+  },
+  {
+    "objectID": "WS3_Modul_1.html",
+    "href": "WS3_Modul_1.html",
+    "title": "9  Problemerfassung und Daten als Lösung",
+    "section": "",
+    "text": "Themen\nIn Modul 1 setzen wir den Rahmen, um Probleme zu erfassen und vorliegende Daten zu verstehen. Es werden keine Vorkenntnisse in der Datenanalyse erwartet. Sie können sich auf folgende Themen freuen:",
+    "crumbs": [
+      "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Problemerfassung und Daten als Lösung</span>"
+    ]
+  },
+  {
+    "objectID": "WS3_Modul_1.html#themen",
+    "href": "WS3_Modul_1.html#themen",
+    "title": "9  Problemerfassung und Daten als Lösung",
+    "section": "",
+    "text": "Einführung in die Workshop-Serie\nDatenarbeit als Teamarbeit\nEvidenzbasierte Verwaltung\nBeantwortung von Fragen mit Daten\nDaten: Was ist das eigentlich?\nDatenquellen und Entstehung von Daten\nSicher mit Daten arbeiten: Cloud-Computing als Möglichkeit\n\n\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieses Moduls können Sie…\n\n… beschreiben, was Evidenzbasierte Verwaltung ist.\n… einschätzen, wann Evidenzbasierte Verwaltung genutzt werden kann.\n… einige Fragen benennen, die man mit Daten beantworten kann.\n… Probleme schildern, die in Ihrem Umfeld mit Daten gelöst werden könnten",
+    "crumbs": [
+      "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Problemerfassung und Daten als Lösung</span>"
+    ]
+  },
+  {
+    "objectID": "WS3_Modul_2.html",
+    "href": "WS3_Modul_2.html",
+    "title": "10  Cloud-Computing und Datenanalyse",
+    "section": "",
+    "text": "Themen\nIn Modul 2 beginnen wir mit der Einführung in die benötigte Software und Arbeitsumgebung. Es werden keine Vorkenntnisse in der Datenanalyse erwartet. Sie können sich auf folgende Themen freuen:",
+    "crumbs": [
+      "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Cloud-Computing und Datenanalyse</span>"
+    ]
+  },
+  {
+    "objectID": "WS3_Modul_2.html#themen",
+    "href": "WS3_Modul_2.html#themen",
+    "title": "10  Cloud-Computing und Datenanalyse",
+    "section": "",
+    "text": "Erste Schritte im Cloud-Computing\nÜberblick über die vorliegenden Daten\nErste Analysen mit der Software R\nUmgang mit Daten(problemen)\nStichprobenziehung als Strategie\n\n\n\n\n\nVisualisierung einer Zufallsstichprobe\n\n\n\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieses Moduls können Sie…\nPotentiale erkennen\n\n… Cloud-Computing als Möglichkeit für sichere Datenanalyse einschätzen.\n… in der Cloud-Arbeitsumgebung arbeiten.\n\nDie Daten analysieren (I)\n\n… die Daten vorbereiten und verstehen.\n… erste Datenanalysen durchführung und die Ergebnisse interpretieren.\n… eine Entscheidung über eine gute Strategie für die Stichprobenziehung fällen.",
+    "crumbs": [
+      "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Cloud-Computing und Datenanalyse</span>"
+    ]
+  },
+  {
+    "objectID": "WS3_Modul_3.html",
+    "href": "WS3_Modul_3.html",
+    "title": "11  Visualisierung und Reporting",
+    "section": "",
+    "text": "Themen\nIn Modul 3 werden die Guidelines für nachvollziehbares Reporting und gute Visualisierungen besprochen. Es werden keine Vorkenntnisse in der Datenanalyse erwartet. Sie können sich auf folgende Themen freuen:",
+    "crumbs": [
+      "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Visualisierung und Reporting</span>"
+    ]
+  },
+  {
+    "objectID": "WS3_Modul_3.html#themen",
+    "href": "WS3_Modul_3.html#themen",
+    "title": "11  Visualisierung und Reporting",
+    "section": "",
+    "text": "Visualisierung der vorliegenden Daten\nVisualisierung der Analyse (Stichprobenziehung)\nBest practices für Visualisierungen\nÜberblick über Reporting und Dashboards für Datenanalyse-Projekte\n\n\n\n\n\nAnzahl der Fälle pro Amtsgerichtbezirk\n\n\n\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieses Moduls können Sie…\nGrafische Datenanalyse\n\n… Ergebnisse über Grafiken kommunizieren (Balkendiagramme, Karten und co.).\n… gute Beispiele für Datenvisualisierungen erkennen.\n\nErgebnisse kommunizieren\n\n… Notebooks für Reporting verwenden.\n… einschätzen, wann Dashboards nützlich sind für die Kommunikation von Datenanalysen.",
+    "crumbs": [
+      "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Visualisierung und Reporting</span>"
     ]
   },
   {
