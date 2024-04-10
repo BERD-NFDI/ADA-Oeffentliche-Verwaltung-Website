@@ -346,7 +346,7 @@
     "href": "WS3_Modul_1.html#material",
     "title": "9  Problemerfassung und Daten als Lösung",
     "section": "Material",
-    "text": "Material\n\nSlides",
+    "text": "Material\nSlides",
     "crumbs": [
       "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Problemerfassung und Daten als Lösung</span>"
@@ -369,6 +369,17 @@
     "title": "10  Cloud-Computing und Datenanalyse",
     "section": "",
     "text": "Erste Schritte im Cloud-Computing\nÜberblick über die vorliegenden Daten\nErste Analysen mit der Software R\nUmgang mit Daten(problemen)\nStichprobenziehung als Strategie\n\n\n\n\n\nVisualisierung einer Zufallsstichprobe\n\n\n\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieses Moduls können Sie…\nPotentiale erkennen\n\n… Cloud-Computing als Möglichkeit für sichere Datenanalyse einschätzen.\n… in der Cloud-Arbeitsumgebung arbeiten.\n\nDie Daten analysieren (I)\n\n… die Daten vorbereiten und verstehen.\n… erste Datenanalysen durchführung und die Ergebnisse interpretieren.\n… eine Entscheidung über eine gute Strategie für die Stichprobenziehung fällen.",
+    "crumbs": [
+      "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Cloud-Computing und Datenanalyse</span>"
+    ]
+  },
+  {
+    "objectID": "WS3_Modul_2.html#material",
+    "href": "WS3_Modul_2.html#material",
+    "title": "10  Cloud-Computing und Datenanalyse",
+    "section": "Material",
+    "text": "Material\nSlides",
     "crumbs": [
       "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Cloud-Computing und Datenanalyse</span>"
