@@ -1,225 +1,5 @@
 [
   {
-    "objectID": "Modul_1.html",
-    "href": "Modul_1.html",
-    "title": "Problemerfassung und Daten als Lösung",
-    "section": "",
-    "text": "Themen\nIn Modul 1 setzen wir den Rahmen, um Probleme zu erfassen und vorliegende Daten zu verstehen. Es werden keine Vorkenntnisse in der Datenanalyse erwartet. Sie können sich auf folgende Themen freuen:",
-    "crumbs": [
-      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Problemerfassung und Daten als Lösung</span>"
-    ]
-  },
-  {
-    "objectID": "Modul_1.html#themen",
-    "href": "Modul_1.html#themen",
-    "title": "Problemerfassung und Daten als Lösung",
-    "section": "",
-    "text": "Einführung in die Workshop-Serie\nDatenarbeit als Teamarbeit\nEvidenzbasierte Verwaltung\nBeantwortung von Fragen mit Daten\nDaten: Was ist das eigentlich?\nDatenquellen und Entstehung von Daten\nSicher mit Daten arbeiten: Cloud-Computing als Möglichkeit\n\n\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieses Moduls können Sie…\n\n… beschreiben, was Evidenzbasierte Verwaltung ist.\n… einschätzen, wann Evidenzbasierte Verwaltung genutzt werden kann.\n… einige Fragen benennen, die man mit Daten beantworten kann.\n… Probleme schildern, die in Ihrem Umfeld mit Daten gelöst werden könnten",
-    "crumbs": [
-      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Problemerfassung und Daten als Lösung</span>"
-    ]
-  },
-  {
-    "objectID": "Modul_1.html#material",
-    "href": "Modul_1.html#material",
-    "title": "Problemerfassung und Daten als Lösung",
-    "section": "Material",
-    "text": "Material\n\nSlides",
-    "crumbs": [
-      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Problemerfassung und Daten als Lösung</span>"
-    ]
-  },
-  {
-    "objectID": "Modul_2.html",
-    "href": "Modul_2.html",
-    "title": "Cloud-Computing und Datenanalyse",
-    "section": "",
-    "text": "Themen\nIn Modul 2 beginnen wir mit der Einführung in die benötigte Software und Arbeitsumgebung. Es werden keine Vorkenntnisse in der Datenanalyse erwartet. Sie können sich auf folgende Themen freuen:",
-    "crumbs": [
-      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cloud-Computing und Datenanalyse</span>"
-    ]
-  },
-  {
-    "objectID": "Modul_2.html#themen",
-    "href": "Modul_2.html#themen",
-    "title": "Cloud-Computing und Datenanalyse",
-    "section": "",
-    "text": "Erste Schritte im Cloud-Computing\nÜberblick über die vorliegenden Daten\nErste Analysen mit der Software R\nUmgang mit Daten(problemen)\nStichprobenziehung als Strategie\n\n\n\n\n\nVisualisierung einer Zufallsstichprobe\n\n\n\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieses Moduls können Sie…\nPotentiale erkennen\n\n… Cloud-Computing als Möglichkeit für sichere Datenanalyse einschätzen.\n… in der Cloud-Arbeitsumgebung arbeiten.\n\nDie Daten analysieren (I)\n\n… die Daten vorbereiten und verstehen.\n… erste Datenanalysen durchführung und die Ergebnisse interpretieren.\n… eine Entscheidung über eine gute Strategie für die Stichprobenziehung fällen.",
-    "crumbs": [
-      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cloud-Computing und Datenanalyse</span>"
-    ]
-  },
-  {
-    "objectID": "Modul_2.html#material",
-    "href": "Modul_2.html#material",
-    "title": "Cloud-Computing und Datenanalyse",
-    "section": "Material",
-    "text": "Material\n\nSlides\nNotebook 2.1 - Erste Analysen\nNotebook 2.2 - Einfache Zufallsstichprobe\nNotebook 2.3 - Stratifizierte Zufallsstichprobe\n\n\n\n\n\n\n\nAnleitung Cloud-Umgebung\n\n\n\n\n\n\nLogin\n\nNavigation zu https://adrf.okta.com\nUsername (endet auf @adrf.net) und Passwort eingeben, Sign In klicken\nSend me the code klicken und dann den Code eingeben, Verify klicken\nADA Bayern auswählen\nDesktop auswählen\nPasswort eingeben, Sign in klicken\nEine Windows-Oberfläche öffnet sich mit einem Pop-Up Fenster. Dort I Acknowledge auswählen und die Quizfrage beantworten. Dann Submit klicken.\nDas offene Browserfenster kann geschlossen werden.\n\n\n\nErste Nutzung\nVor der ersten Nutzung müssen wir die Notebooks in Ihren persönlichen Arbeitsordner kopieren.\n\nFile Explorer öffnen.\nZu projects-Laufwerk (P:) navigieren, darin liegt ein Ordner pr-ada-bayern\nOrdner pr-ada-bayern öffnen, darin liegt eine zip-Datei notebooks_utf8_vx.zip\nzip-Datei notebooks_utf8_vx.zip kopieren (z.B. Recktsklick -&gt; Copy)\nZu users-Laufwerk (U:) navigieren, darin liegt ein Ordner mit ihrem Namen (vorname.nachname.id, dies ist ihr Arbeitsordner)\nOrdner mit ihrem Namen (vorname.nachname.id) öffnen und dort die zip-Datei einfügen (z.B. Rechtsklick -&gt; Paste)\nDoppelklick auf die zip-Datei öffnet ein Programm zum ent-zippen\nExtract To auswählen und im sich öffnenden Fenster OK\n\nNun ist ein Ordner in Ihrem Arbeitstsordner der die Notebooks enthält.\n\n\nNotebooks öffnen\n\nFile Explorer öffnen.\nZu users-Laufwerk (U:) navigieren, darin liegt ein Ordner mit ihrem Namen (vorname.nachname.id, dies ist ihr Arbeitsordner)\nOrdner mit ihrem Namen (vorname.nachname.id) öffnen und den Ordner darin (notebooks_utf8_vx, siehe oben) öffnen\nDoppelklick auf Notebooks.Rproj öffnet die Notebooks in RStudio\n\n\n\nArbeit mit den Notebooks\n\nWählen Sie das gewünschte Notebook über die Tabs in RStudio aus\nSie können beliebig Text sowie R-Code ändern\nCode können Sie über den grünen Pfeil am Code-Block ausführen\n\n\nSollte etwas nicht funktionieren, wenden Sie sich bitte an data-analytics@stat.uni-muenchen.de.",
-    "crumbs": [
-      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cloud-Computing und Datenanalyse</span>"
-    ]
-  },
-  {
-    "objectID": "Modul_3.html",
-    "href": "Modul_3.html",
-    "title": "Visualisierung und Reporting",
-    "section": "",
-    "text": "Themen\nIn Modul 3 werden die Guidelines für nachvollziehbares Reporting und gute Visualisierungen besprochen. Es werden keine Vorkenntnisse in der Datenanalyse erwartet. Sie können sich auf folgende Themen freuen:",
-    "crumbs": [
-      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Visualisierung und Reporting</span>"
-    ]
-  },
-  {
-    "objectID": "Modul_3.html#themen",
-    "href": "Modul_3.html#themen",
-    "title": "Visualisierung und Reporting",
-    "section": "",
-    "text": "Visualisierung der vorliegenden Daten\nVisualisierung der Analyse (Stichprobenziehung)\nBest practices für Visualisierungen\nÜberblick über Reporting und Dashboards für Datenanalyse-Projekte\n\n\n\n\n\nAnzahl der Fälle pro Amtsgerichtbezirk\n\n\n\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieses Moduls können Sie…\nGrafische Datenanalyse\n\n… Ergebnisse über Grafiken kommunizieren (Balkendiagramme, Karten und co.).\n… gute Beispiele für Datenvisualisierungen erkennen.\n\nErgebnisse kommunizieren\n\n… Notebooks für Reporting verwenden.\n… einschätzen, wann Dashboards nützlich sind für die Kommunikation von Datenanalysen.",
-    "crumbs": [
-      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Visualisierung und Reporting</span>"
-    ]
-  },
-  {
-    "objectID": "Modul_3.html#material",
-    "href": "Modul_3.html#material",
-    "title": "Visualisierung und Reporting",
-    "section": "Material",
-    "text": "Material\n\nSlides\nNotebook 3 - Best of Stichprobenziehung",
-    "crumbs": [
-      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Visualisierung und Reporting</span>"
-    ]
-  },
-  {
-    "objectID": "Modul_4.html",
-    "href": "Modul_4.html",
-    "title": "Ergebnispräsentation und Umsetzung",
-    "section": "",
-    "text": "Themen\nIn Modul 4 besprechen wir Möglichkeiten, wie Ergebnisse in bestehende Prozesse eingebaut werden können. Sie können sich auf folgende Themen freuen:\nDes weiteren präsentieren die Teams ihre Ergebnisse und Zukunftsvisionen.",
-    "crumbs": [
-      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Ergebnispräsentation und Umsetzung</span>"
-    ]
-  },
-  {
-    "objectID": "Modul_4.html#themen",
-    "href": "Modul_4.html#themen",
-    "title": "Ergebnispräsentation und Umsetzung",
-    "section": "",
-    "text": "Fallstudie: Identifikation von bekannten Persönlichkeiten\nMachine Learning: Können wir lernen “Was wird vermutlich in Zukunft von Interesse sein?”\nEinblick in den rechtlichen Rahmen von Datenanalyseprojekten\n\n\n\n\n\n\n\n\n\n\n\n\n\nProjektvorstellung\n\n\n\nJedes Team präsentiert drei Folien:\n\nDie Ergebnisse der Datenanalyse\nEin Plan für die Umsetzung der vorgeschlagenen Analyse in die Praxis.\nEine Zukunftsvision: Was bräuchte man noch für das “perfekte” Archivierungs-System?\n\n\n\n\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieses Moduls können Sie…\n\n… externe Datenquellen hinsichtlich ihres Nutzens beurteilen.\n… die Möglichkeiten und Grenzen der Record Linkage Methode einschätzen.\n… Datenprojekte präsentieren und deren Nutzen einordnen.\n… einschätzen, was rechtlich in einem solchen Projekt beachtet werden muss.",
-    "crumbs": [
-      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Ergebnispräsentation und Umsetzung</span>"
-    ]
-  },
-  {
-    "objectID": "Modul_4.html#material",
-    "href": "Modul_4.html#material",
-    "title": "Ergebnispräsentation und Umsetzung",
-    "section": "Material",
-    "text": "Material\n\nSlides",
-    "crumbs": [
-      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Ergebnispräsentation und Umsetzung</span>"
-    ]
-  },
-  {
-    "objectID": "WS2_Modul_1.html",
-    "href": "WS2_Modul_1.html",
-    "title": "Einführung, Problemerfassung und Arbeitsabläufe",
-    "section": "",
-    "text": "Material",
-    "crumbs": [
-      "Workshop Serie 2: Implementation Daten-basierter Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Einführung, Problemerfassung und Arbeitsabläufe</span>"
-    ]
-  },
-  {
-    "objectID": "WS2_Modul_1.html#material",
-    "href": "WS2_Modul_1.html#material",
-    "title": "Einführung, Problemerfassung und Arbeitsabläufe",
-    "section": "",
-    "text": "Slides",
-    "crumbs": [
-      "Workshop Serie 2: Implementation Daten-basierter Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Einführung, Problemerfassung und Arbeitsabläufe</span>"
-    ]
-  },
-  {
-    "objectID": "WS2_Modul_2.html",
-    "href": "WS2_Modul_2.html",
-    "title": "Umsetzung: Implementierung der Stichprobenziehung",
-    "section": "",
-    "text": "Material",
-    "crumbs": [
-      "Workshop Serie 2: Implementation Daten-basierter Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Umsetzung: Implementierung der Stichprobenziehung</span>"
-    ]
-  },
-  {
-    "objectID": "WS2_Modul_2.html#material",
-    "href": "WS2_Modul_2.html#material",
-    "title": "Umsetzung: Implementierung der Stichprobenziehung",
-    "section": "",
-    "text": "Slides",
-    "crumbs": [
-      "Workshop Serie 2: Implementation Daten-basierter Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Umsetzung: Implementierung der Stichprobenziehung</span>"
-    ]
-  },
-  {
-    "objectID": "WS2_Modul_3.html",
-    "href": "WS2_Modul_3.html",
-    "title": "Umsetzung: Implementierung der Stichprobenziehung im Kontext des Gesamtablaufs",
-    "section": "",
-    "text": "Material",
-    "crumbs": [
-      "Workshop Serie 2: Implementation Daten-basierter Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Umsetzung: Implementierung der Stichprobenziehung im Kontext des Gesamtablaufs</span>"
-    ]
-  },
-  {
-    "objectID": "WS2_Modul_3.html#material",
-    "href": "WS2_Modul_3.html#material",
-    "title": "Umsetzung: Implementierung der Stichprobenziehung im Kontext des Gesamtablaufs",
-    "section": "",
-    "text": "Slides",
-    "crumbs": [
-      "Workshop Serie 2: Implementation Daten-basierter Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Umsetzung: Implementierung der Stichprobenziehung im Kontext des Gesamtablaufs</span>"
-    ]
-  },
-  {
-    "objectID": "WS2_Modul_4.html",
-    "href": "WS2_Modul_4.html",
-    "title": "Nachhaltige Implementierung: Wissensweitergabe und Infrastrukturerhalt",
-    "section": "",
-    "text": "Material",
-    "crumbs": [
-      "Workshop Serie 2: Implementation Daten-basierter Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Nachhaltige Implementierung: Wissensweitergabe und Infrastrukturerhalt</span>"
-    ]
-  },
-  {
-    "objectID": "WS2_Modul_4.html#material",
-    "href": "WS2_Modul_4.html#material",
-    "title": "Nachhaltige Implementierung: Wissensweitergabe und Infrastrukturerhalt",
-    "section": "",
-    "text": "Slides",
-    "crumbs": [
-      "Workshop Serie 2: Implementation Daten-basierter Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Nachhaltige Implementierung: Wissensweitergabe und Infrastrukturerhalt</span>"
-    ]
-  },
-  {
     "objectID": "WS3_Modul_1.html",
     "href": "WS3_Modul_1.html",
     "title": "Problemerfassung und Daten als Lösung",
@@ -227,7 +7,7 @@
     "text": "Themen\nIn Modul 1 setzen wir den Rahmen, um Probleme zu erfassen und vorliegende Daten zu verstehen. Es werden keine Vorkenntnisse in der Datenanalyse erwartet. Sie können sich auf folgende Themen freuen:",
     "crumbs": [
       "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Problemerfassung und Daten als Lösung</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Problemerfassung und Daten als Lösung</span>"
     ]
   },
   {
@@ -238,7 +18,7 @@
     "text": "Einführung in die Workshop-Serie\nDatenarbeit als Teamarbeit\nEvidenzbasierte Verwaltung\nBeantwortung von Fragen mit Daten\nDaten: Was ist das eigentlich?\nDatenquellen und Entstehung von Daten\nSicher mit Daten arbeiten: Cloud-Computing als Möglichkeit\n\n\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieses Moduls können Sie…\n\n… beschreiben, was Evidenzbasierte Verwaltung ist.\n… einschätzen, wann Evidenzbasierte Verwaltung genutzt werden kann.\n… einige Fragen benennen, die man mit Daten beantworten kann.\n… Probleme schildern, die in Ihrem Umfeld mit Daten gelöst werden könnten",
     "crumbs": [
       "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Problemerfassung und Daten als Lösung</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Problemerfassung und Daten als Lösung</span>"
     ]
   },
   {
@@ -249,7 +29,7 @@
     "text": "Material\nSlides",
     "crumbs": [
       "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Problemerfassung und Daten als Lösung</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Problemerfassung und Daten als Lösung</span>"
     ]
   },
   {
@@ -260,7 +40,7 @@
     "text": "Themen\nIn Modul 2 beginnen wir mit der Einführung in die benötigte Software und Arbeitsumgebung. Es werden keine Vorkenntnisse in der Datenanalyse erwartet. Sie können sich auf folgende Themen freuen:",
     "crumbs": [
       "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Cloud-Computing und Datenanalyse</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cloud-Computing und Datenanalyse</span>"
     ]
   },
   {
@@ -271,7 +51,7 @@
     "text": "Erste Schritte im Cloud-Computing\nÜberblick über die vorliegenden Daten\nErste Analysen mit der Software R\nUmgang mit Daten(problemen)\nStichprobenziehung als Strategie\n\n\n\n\n\nVisualisierung einer Zufallsstichprobe\n\n\n\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieses Moduls können Sie…\nPotentiale erkennen\n\n… Cloud-Computing als Möglichkeit für sichere Datenanalyse einschätzen.\n… in der Cloud-Arbeitsumgebung arbeiten.\n\nDie Daten analysieren (I)\n\n… die Daten vorbereiten und verstehen.\n… erste Datenanalysen durchführung und die Ergebnisse interpretieren.\n… eine Entscheidung über eine gute Strategie für die Stichprobenziehung fällen.",
     "crumbs": [
       "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Cloud-Computing und Datenanalyse</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cloud-Computing und Datenanalyse</span>"
     ]
   },
   {
@@ -282,7 +62,7 @@
     "text": "Material\nSlides",
     "crumbs": [
       "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Cloud-Computing und Datenanalyse</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Cloud-Computing und Datenanalyse</span>"
     ]
   },
   {
@@ -293,7 +73,7 @@
     "text": "Themen\nIn Modul 3 werden die Guidelines für nachvollziehbares Reporting und gute Visualisierungen besprochen. Es werden keine Vorkenntnisse in der Datenanalyse erwartet. Sie können sich auf folgende Themen freuen:",
     "crumbs": [
       "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Visualisierung und Reporting</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Visualisierung und Reporting</span>"
     ]
   },
   {
@@ -304,7 +84,7 @@
     "text": "Visualisierung der vorliegenden Daten\nVisualisierung der Analyse (Stichprobenziehung)\nBest practices für Visualisierungen\nÜberblick über Reporting und Dashboards für Datenanalyse-Projekte\n\n\n\n\n\nAnzahl der Fälle pro Amtsgerichtbezirk\n\n\n\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieses Moduls können Sie…\nGrafische Datenanalyse\n\n… Ergebnisse über Grafiken kommunizieren (Balkendiagramme, Karten und co.).\n… gute Beispiele für Datenvisualisierungen erkennen.\n\nErgebnisse kommunizieren\n\n… Notebooks für Reporting verwenden.\n… einschätzen, wann Dashboards nützlich sind für die Kommunikation von Datenanalysen.",
     "crumbs": [
       "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Visualisierung und Reporting</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Visualisierung und Reporting</span>"
     ]
   },
   {
@@ -315,7 +95,227 @@
     "text": "Material\nSlides",
     "crumbs": [
       "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Visualisierung und Reporting</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Visualisierung und Reporting</span>"
+    ]
+  },
+  {
+    "objectID": "WS2_Modul_1.html",
+    "href": "WS2_Modul_1.html",
+    "title": "Einführung, Problemerfassung und Arbeitsabläufe",
+    "section": "",
+    "text": "Material",
+    "crumbs": [
+      "Workshop Serie 2: Implementation Daten-basierter Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Einführung, Problemerfassung und Arbeitsabläufe</span>"
+    ]
+  },
+  {
+    "objectID": "WS2_Modul_1.html#material",
+    "href": "WS2_Modul_1.html#material",
+    "title": "Einführung, Problemerfassung und Arbeitsabläufe",
+    "section": "",
+    "text": "Slides",
+    "crumbs": [
+      "Workshop Serie 2: Implementation Daten-basierter Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Einführung, Problemerfassung und Arbeitsabläufe</span>"
+    ]
+  },
+  {
+    "objectID": "WS2_Modul_2.html",
+    "href": "WS2_Modul_2.html",
+    "title": "Umsetzung: Implementierung der Stichprobenziehung",
+    "section": "",
+    "text": "Material",
+    "crumbs": [
+      "Workshop Serie 2: Implementation Daten-basierter Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Umsetzung: Implementierung der Stichprobenziehung</span>"
+    ]
+  },
+  {
+    "objectID": "WS2_Modul_2.html#material",
+    "href": "WS2_Modul_2.html#material",
+    "title": "Umsetzung: Implementierung der Stichprobenziehung",
+    "section": "",
+    "text": "Slides",
+    "crumbs": [
+      "Workshop Serie 2: Implementation Daten-basierter Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Umsetzung: Implementierung der Stichprobenziehung</span>"
+    ]
+  },
+  {
+    "objectID": "WS2_Modul_3.html",
+    "href": "WS2_Modul_3.html",
+    "title": "Umsetzung: Implementierung der Stichprobenziehung im Kontext des Gesamtablaufs",
+    "section": "",
+    "text": "Material",
+    "crumbs": [
+      "Workshop Serie 2: Implementation Daten-basierter Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Umsetzung: Implementierung der Stichprobenziehung im Kontext des Gesamtablaufs</span>"
+    ]
+  },
+  {
+    "objectID": "WS2_Modul_3.html#material",
+    "href": "WS2_Modul_3.html#material",
+    "title": "Umsetzung: Implementierung der Stichprobenziehung im Kontext des Gesamtablaufs",
+    "section": "",
+    "text": "Slides",
+    "crumbs": [
+      "Workshop Serie 2: Implementation Daten-basierter Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Umsetzung: Implementierung der Stichprobenziehung im Kontext des Gesamtablaufs</span>"
+    ]
+  },
+  {
+    "objectID": "WS2_Modul_4.html",
+    "href": "WS2_Modul_4.html",
+    "title": "Nachhaltige Implementierung: Wissensweitergabe und Infrastrukturerhalt",
+    "section": "",
+    "text": "Material",
+    "crumbs": [
+      "Workshop Serie 2: Implementation Daten-basierter Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Nachhaltige Implementierung: Wissensweitergabe und Infrastrukturerhalt</span>"
+    ]
+  },
+  {
+    "objectID": "WS2_Modul_4.html#material",
+    "href": "WS2_Modul_4.html#material",
+    "title": "Nachhaltige Implementierung: Wissensweitergabe und Infrastrukturerhalt",
+    "section": "",
+    "text": "Slides",
+    "crumbs": [
+      "Workshop Serie 2: Implementation Daten-basierter Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Nachhaltige Implementierung: Wissensweitergabe und Infrastrukturerhalt</span>"
+    ]
+  },
+  {
+    "objectID": "Modul_1.html",
+    "href": "Modul_1.html",
+    "title": "Problemerfassung und Daten als Lösung",
+    "section": "",
+    "text": "Themen\nIn Modul 1 setzen wir den Rahmen, um Probleme zu erfassen und vorliegende Daten zu verstehen. Es werden keine Vorkenntnisse in der Datenanalyse erwartet. Sie können sich auf folgende Themen freuen:",
+    "crumbs": [
+      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Problemerfassung und Daten als Lösung</span>"
+    ]
+  },
+  {
+    "objectID": "Modul_1.html#themen",
+    "href": "Modul_1.html#themen",
+    "title": "Problemerfassung und Daten als Lösung",
+    "section": "",
+    "text": "Einführung in die Workshop-Serie\nDatenarbeit als Teamarbeit\nEvidenzbasierte Verwaltung\nBeantwortung von Fragen mit Daten\nDaten: Was ist das eigentlich?\nDatenquellen und Entstehung von Daten\nSicher mit Daten arbeiten: Cloud-Computing als Möglichkeit\n\n\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieses Moduls können Sie…\n\n… beschreiben, was Evidenzbasierte Verwaltung ist.\n… einschätzen, wann Evidenzbasierte Verwaltung genutzt werden kann.\n… einige Fragen benennen, die man mit Daten beantworten kann.\n… Probleme schildern, die in Ihrem Umfeld mit Daten gelöst werden könnten",
+    "crumbs": [
+      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Problemerfassung und Daten als Lösung</span>"
+    ]
+  },
+  {
+    "objectID": "Modul_1.html#material",
+    "href": "Modul_1.html#material",
+    "title": "Problemerfassung und Daten als Lösung",
+    "section": "Material",
+    "text": "Material\n\nSlides",
+    "crumbs": [
+      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Problemerfassung und Daten als Lösung</span>"
+    ]
+  },
+  {
+    "objectID": "Modul_2.html",
+    "href": "Modul_2.html",
+    "title": "Cloud-Computing und Datenanalyse",
+    "section": "",
+    "text": "Themen\nIn Modul 2 beginnen wir mit der Einführung in die benötigte Software und Arbeitsumgebung. Es werden keine Vorkenntnisse in der Datenanalyse erwartet. Sie können sich auf folgende Themen freuen:",
+    "crumbs": [
+      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Cloud-Computing und Datenanalyse</span>"
+    ]
+  },
+  {
+    "objectID": "Modul_2.html#themen",
+    "href": "Modul_2.html#themen",
+    "title": "Cloud-Computing und Datenanalyse",
+    "section": "",
+    "text": "Erste Schritte im Cloud-Computing\nÜberblick über die vorliegenden Daten\nErste Analysen mit der Software R\nUmgang mit Daten(problemen)\nStichprobenziehung als Strategie\n\n\n\n\n\nVisualisierung einer Zufallsstichprobe\n\n\n\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieses Moduls können Sie…\nPotentiale erkennen\n\n… Cloud-Computing als Möglichkeit für sichere Datenanalyse einschätzen.\n… in der Cloud-Arbeitsumgebung arbeiten.\n\nDie Daten analysieren (I)\n\n… die Daten vorbereiten und verstehen.\n… erste Datenanalysen durchführung und die Ergebnisse interpretieren.\n… eine Entscheidung über eine gute Strategie für die Stichprobenziehung fällen.",
+    "crumbs": [
+      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Cloud-Computing und Datenanalyse</span>"
+    ]
+  },
+  {
+    "objectID": "Modul_2.html#material",
+    "href": "Modul_2.html#material",
+    "title": "Cloud-Computing und Datenanalyse",
+    "section": "Material",
+    "text": "Material\n\nSlides\nNotebook 2.1 - Erste Analysen\nNotebook 2.2 - Einfache Zufallsstichprobe\nNotebook 2.3 - Stratifizierte Zufallsstichprobe\n\n\n\n\n\n\n\nAnleitung Cloud-Umgebung\n\n\n\n\n\n\nLogin\n\nNavigation zu https://adrf.okta.com\nUsername (endet auf @adrf.net) und Passwort eingeben, Sign In klicken\nSend me the code klicken und dann den Code eingeben, Verify klicken\nADA Bayern auswählen\nDesktop auswählen\nPasswort eingeben, Sign in klicken\nEine Windows-Oberfläche öffnet sich mit einem Pop-Up Fenster. Dort I Acknowledge auswählen und die Quizfrage beantworten. Dann Submit klicken.\nDas offene Browserfenster kann geschlossen werden.\n\n\n\nErste Nutzung\nVor der ersten Nutzung müssen wir die Notebooks in Ihren persönlichen Arbeitsordner kopieren.\n\nFile Explorer öffnen.\nZu projects-Laufwerk (P:) navigieren, darin liegt ein Ordner pr-ada-bayern\nOrdner pr-ada-bayern öffnen, darin liegt eine zip-Datei notebooks_utf8_vx.zip\nzip-Datei notebooks_utf8_vx.zip kopieren (z.B. Recktsklick -&gt; Copy)\nZu users-Laufwerk (U:) navigieren, darin liegt ein Ordner mit ihrem Namen (vorname.nachname.id, dies ist ihr Arbeitsordner)\nOrdner mit ihrem Namen (vorname.nachname.id) öffnen und dort die zip-Datei einfügen (z.B. Rechtsklick -&gt; Paste)\nDoppelklick auf die zip-Datei öffnet ein Programm zum ent-zippen\nExtract To auswählen und im sich öffnenden Fenster OK\n\nNun ist ein Ordner in Ihrem Arbeitstsordner der die Notebooks enthält.\n\n\nNotebooks öffnen\n\nFile Explorer öffnen.\nZu users-Laufwerk (U:) navigieren, darin liegt ein Ordner mit ihrem Namen (vorname.nachname.id, dies ist ihr Arbeitsordner)\nOrdner mit ihrem Namen (vorname.nachname.id) öffnen und den Ordner darin (notebooks_utf8_vx, siehe oben) öffnen\nDoppelklick auf Notebooks.Rproj öffnet die Notebooks in RStudio\n\n\n\nArbeit mit den Notebooks\n\nWählen Sie das gewünschte Notebook über die Tabs in RStudio aus\nSie können beliebig Text sowie R-Code ändern\nCode können Sie über den grünen Pfeil am Code-Block ausführen\n\n\nSollte etwas nicht funktionieren, wenden Sie sich bitte an data-analytics@stat.uni-muenchen.de.",
+    "crumbs": [
+      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Cloud-Computing und Datenanalyse</span>"
+    ]
+  },
+  {
+    "objectID": "Modul_3.html",
+    "href": "Modul_3.html",
+    "title": "Visualisierung und Reporting",
+    "section": "",
+    "text": "Themen\nIn Modul 3 werden die Guidelines für nachvollziehbares Reporting und gute Visualisierungen besprochen. Es werden keine Vorkenntnisse in der Datenanalyse erwartet. Sie können sich auf folgende Themen freuen:",
+    "crumbs": [
+      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Visualisierung und Reporting</span>"
+    ]
+  },
+  {
+    "objectID": "Modul_3.html#themen",
+    "href": "Modul_3.html#themen",
+    "title": "Visualisierung und Reporting",
+    "section": "",
+    "text": "Visualisierung der vorliegenden Daten\nVisualisierung der Analyse (Stichprobenziehung)\nBest practices für Visualisierungen\nÜberblick über Reporting und Dashboards für Datenanalyse-Projekte\n\n\n\n\n\nAnzahl der Fälle pro Amtsgerichtbezirk\n\n\n\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieses Moduls können Sie…\nGrafische Datenanalyse\n\n… Ergebnisse über Grafiken kommunizieren (Balkendiagramme, Karten und co.).\n… gute Beispiele für Datenvisualisierungen erkennen.\n\nErgebnisse kommunizieren\n\n… Notebooks für Reporting verwenden.\n… einschätzen, wann Dashboards nützlich sind für die Kommunikation von Datenanalysen.",
+    "crumbs": [
+      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Visualisierung und Reporting</span>"
+    ]
+  },
+  {
+    "objectID": "Modul_3.html#material",
+    "href": "Modul_3.html#material",
+    "title": "Visualisierung und Reporting",
+    "section": "Material",
+    "text": "Material\n\nSlides\nNotebook 3 - Best of Stichprobenziehung",
+    "crumbs": [
+      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Visualisierung und Reporting</span>"
+    ]
+  },
+  {
+    "objectID": "Modul_4.html",
+    "href": "Modul_4.html",
+    "title": "Ergebnispräsentation und Umsetzung",
+    "section": "",
+    "text": "Themen\nIn Modul 4 besprechen wir Möglichkeiten, wie Ergebnisse in bestehende Prozesse eingebaut werden können. Sie können sich auf folgende Themen freuen:\nDes weiteren präsentieren die Teams ihre Ergebnisse und Zukunftsvisionen.",
+    "crumbs": [
+      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Ergebnispräsentation und Umsetzung</span>"
+    ]
+  },
+  {
+    "objectID": "Modul_4.html#themen",
+    "href": "Modul_4.html#themen",
+    "title": "Ergebnispräsentation und Umsetzung",
+    "section": "",
+    "text": "Fallstudie: Identifikation von bekannten Persönlichkeiten\nMachine Learning: Können wir lernen “Was wird vermutlich in Zukunft von Interesse sein?”\nEinblick in den rechtlichen Rahmen von Datenanalyseprojekten\n\n\n\n\n\n\n\n\n\n\n\n\n\nProjektvorstellung\n\n\n\nJedes Team präsentiert drei Folien:\n\nDie Ergebnisse der Datenanalyse\nEin Plan für die Umsetzung der vorgeschlagenen Analyse in die Praxis.\nEine Zukunftsvision: Was bräuchte man noch für das “perfekte” Archivierungs-System?\n\n\n\n\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieses Moduls können Sie…\n\n… externe Datenquellen hinsichtlich ihres Nutzens beurteilen.\n… die Möglichkeiten und Grenzen der Record Linkage Methode einschätzen.\n… Datenprojekte präsentieren und deren Nutzen einordnen.\n… einschätzen, was rechtlich in einem solchen Projekt beachtet werden muss.",
+    "crumbs": [
+      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Ergebnispräsentation und Umsetzung</span>"
+    ]
+  },
+  {
+    "objectID": "Modul_4.html#material",
+    "href": "Modul_4.html#material",
+    "title": "Ergebnispräsentation und Umsetzung",
+    "section": "Material",
+    "text": "Material\n\nSlides",
+    "crumbs": [
+      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Ergebnispräsentation und Umsetzung</span>"
     ]
   },
   {
@@ -383,33 +383,63 @@
     ]
   },
   {
-    "objectID": "WS1.html",
-    "href": "WS1.html",
-    "title": "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
+    "objectID": "WS4.html",
+    "href": "WS4.html",
+    "title": "Workshop Serie 4: Einzelbaumerkennung",
     "section": "",
-    "text": "Ablauf\nIn dieser Workshop-Serie betrachten wir alle Bestandteile eines klassischen Daten-Analyse-Projekts. Dabei geht es vor allem darum, Berührungsängste abzubauen und Kompetenzen aufzubauen, um als Team solche Projekte anzugehen. Denn Datenarbeit ist Teamarbeit und diverse Expertisen sind gefragt.",
+    "text": "Ablauf",
     "crumbs": [
-      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten"
+      "Workshop Serie 4: Einzelbaumerkennung"
     ]
   },
   {
-    "objectID": "WS1.html#ablauf",
-    "href": "WS1.html#ablauf",
-    "title": "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
+    "objectID": "WS4.html#ablauf",
+    "href": "WS4.html#ablauf",
+    "title": "Workshop Serie 4: Einzelbaumerkennung",
     "section": "",
-    "text": "Lernziele\n\n\n\nAm Ende dieser Workshop-Serie, können Sie…\n\n… einschätzen, welche Fragen in Ihrem Umfeld mit Daten beanwortet werden können.\n… in Projekten mit Daten ihre Fachexpertise einbringen, ohne Berührungsängste zu haben.\n… mit Data Scientists und IT-Personal über Cloud-Computing und Datenanalysen sprechen.",
+    "text": "Veranstaltung\nDatum\nZeit\nBeschreibung\n\n\n\n\nKick-Off (online)\n11.10.\n14:00-15:30\nWillkommen und Einführung\n\n\nModul 1 (LMU)\n15.10.\n13:00-16:30\nEinführung, Problemerfassung und Daten\n\n\nModul 2 (LMU)\n16.10.\n09:30-15:30\nDatenprodukt konzipieren, Infrastruktur und Software (optional: Parkspaziergang im Anschluss)\n\n\nModul 3 (LMU)\n17.10.\n09:30-12:30\nArbeitsabläufe und Prototypen\n\n\nFollow-Up 1 (online)\n23.10.\n12:30-14:00\n\n\n\nFollow-Up 2 (online)\n30.10.\n12:30-14:00\n\n\n\nAbschluss (hybrid)\n08.11.\n13:00-15:00\nErgebnispräsentationen und Ausblick\n\n\n\n\nOrte\n\nOnline: Der Zoom-Link wird den Teilnehmenden per Mail mitgeteilt. Sollten Sie keine E-Mail erhalten haben, melden Sie sich bitte bei us (siehe Kontakt).\nLMU: Institut für Statistik der LMU München, Ludwigstr. 33, 4. Stock\n\n\n\nInhalte\n\nHintergrund\nDas Thema Einzelbaumerkennung inklusive Baumeigenschaften (Art, Maße, Totholz ja/nein, Borkenkäferbefall-Status, etc.) ist für viele Behörden, öffentliche Einrichtungen, Kommunen, etc. relevant. Bild-Daten von Drohnen, Flugzeugen und Satelliten (Sentinel) werden gesammelt oder bereits genutzt, um die Einzelbaumerkennung (z.B. mit Hilfe vortrainerter Modelle) durchzuführen. Für bestimmte Flächen werden weitere Daten - wie Laserscanner-Messungen oder “manuelle” Messungen von Koordinaten, Höhe, Art usw. - erhoben, die für das Training von Einzelbaumerkennungs-Modellen genutzt werden können (z.B. für Deep Learning Modelle).\nDie Nutzungsmöglichkeiten von Einzelbaumerkennung sind vielfältig und umfassen neben verschiedenen Forschungsansätzen und der statistischen Baumerfassung für Naturschutz- und Wald-Politik auch die Möglichkeit, jedem Baum eine E-Mail-Adresse zu geben, damit Bürger:innen ihnen schreiben können ;). Nach derzeitigem Planungsstand sollen aber Stadtplaner:innen, staatliche Forstmitarbeitende und andere Verwaltungsmitarbeitende die von mehr Wissen über Standort, Art, und Eigenschaften der Bäume profitieren können, im Mittelpunkt unseres Workshops stehen. Entsprechend sollen praxisnahe Zielsetzungen wie Waldmanagement, Baumpflege oder die Mortalität von Stadtbäumen genauer beleuchtet werden.\n\n\nWorkshop-Serie zum Thema Baum- und Waldmanagement mit Fernerkundungsdaten\nIn dieser ersten Workshop-Serie zum Thema Baum- und Waldmanagement möchten wir relevante Stakeholder in einen Raum bringen und zentrale Fragen wie “Welche Bäume gibt es wo?”, “Wie viele Bäume gibt es im Gebiet XY?”, “Wie groß ist die Biomasse?”, “Welche Eigenschaften hat jeder Baum (z.B. Baumgesundheit)?”, “Kann man die auf einer Karte (ggf. mit Pop-Ups für Eigenschaften) anzeigen?”, “Welche Infrastruktur und Daten werden benötigt, um dies auf Bayern-Ebene umzusetzen?”, usw. gemeinsam angehen.",
     "crumbs": [
-      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten"
+      "Workshop Serie 4: Einzelbaumerkennung"
     ]
   },
   {
-    "objectID": "WS1.html#anmeldung",
-    "href": "WS1.html#anmeldung",
-    "title": "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
+    "objectID": "WS4.html#anmeldung",
+    "href": "WS4.html#anmeldung",
+    "title": "Workshop Serie 4: Einzelbaumerkennung",
     "section": "Anmeldung",
-    "text": "Anmeldung\nHier können Sie sich für die Workshop-Serie anmelden.\n\n\n\n\n\n\nWorkshop-Serie ausgebucht, Warteliste offen\n\n\n\nWir freuen uns über die vielen Anmeldungen, die wir bereits erhalten haben.\nLeider gibt es für diese Workshop-Serie ein Teilnahme-Limit. Wir haben eine Warteliste eingerichtet. Nachrücker erhalten Bescheid, falls sich jemand abmeldet.\nGerne sprechen wir mit Ihnen über Möglichkeiten, weitere Workshops zu organisieren. Schreiben Sie uns gerne eine E-Mail oder sprechen Sie uns persönlich an.",
+    "text": "Anmeldung\nAnmeldung ist derzeit noch nicht möglich.\nBei Interesse oder Fragen wenden Sie sich gerne an data-analytics@stat.uni-muenchen.de.",
     "crumbs": [
-      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten"
+      "Workshop Serie 4: Einzelbaumerkennung"
+    ]
+  },
+  {
+    "objectID": "WS3.html",
+    "href": "WS3.html",
+    "title": "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten",
+    "section": "",
+    "text": "Ablauf\n*Kick-Off: es muss nur ein Kick-Off-Termin besucht werden.",
+    "crumbs": [
+      "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten"
+    ]
+  },
+  {
+    "objectID": "WS3.html#ablauf",
+    "href": "WS3.html#ablauf",
+    "title": "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten",
+    "section": "",
+    "text": "Veranstaltung\nDatum\nZeit\nOrt\n\n\n\n\nKick-Off 1*\n21.03.\n14:30 - 16:00\nOnline (Zoom)\n\n\nKick-Off 2*\n08.04.\n15:00 - 16:30\nOnline (Zoom)\n\n\nModul 1\n09.04.\n10:00 - 15:30\nLMU\n\n\nModul 2\n10.04.\n10:00 - 15:30\nLMU\n\n\nModul 3\n11.04.\n10:00 - 15:30\nLMU\n\n\nGruppenarbeit 1\n17.04.\n12:00 - 13:30\nOnline (Zoom)\n\n\nGruppenarbeit 2\n24.04.\n12:00 - 13:30\nOnline (Zoom)\n\n\nAbschluss-Vorbereitung\n30.04.\n10:00 - 12:00\nLMU\n\n\nAbschlusstermin\n30.04.\n13:30 - 15:30\nLMU / Hybrid (Zoom)\n\n\n\n\n\nOrte\n\nZoom: Der Zoom-Link wird den Teilnehmenden per Mail mitgeteilt. Sollten Sie keine E-Mail erhalten haben, melden Sie sich bitte bei us (siehe Kontakt).\nLMU: Institut für Statistik der LMU München, Ludwigstr. 33, 4. Stock\n\n\n\nInhalte\nIn dieser Workshop-Serie betrachten wir alle Bestandteile eines klassischen Daten-Analyse-Projekts. Dabei geht es vor allem darum, Berührungsängste abzubauen und Kompetenzen aufzubauen, um als Team solche Projekte anzugehen. Denn Datenarbeit ist Teamarbeit und diverse Expertisen sind gefragt.\nDiese Workshop-Serie ist eine inhaltliche Wiederholung der Workshop-Serie 1.\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieser Workshop-Serie, können Sie…\n\n… einschätzen, welche Fragen in Ihrem Umfeld mit Daten beanwortet werden können.\n… in Projekten mit Daten ihre Fachexpertise einbringen, ohne Berührungsängste zu haben.\n… mit Data Scientists und IT-Personal über Cloud-Computing und Datenanalysen sprechen.\n\n\n\n\nKick-Off\n\n\n\n\n\n\nKick-Off\n\n\n\nAm Ende des Kick-Offs können Sie…\n\n… das Thema der Workshop-Serie beschreiben.\n… den Kontext des Projekts erklären.\n… auf die Cloud-Plattform zugreifen.\n\nSlides",
+    "crumbs": [
+      "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten"
+    ]
+  },
+  {
+    "objectID": "WS3.html#anmeldung",
+    "href": "WS3.html#anmeldung",
+    "title": "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten",
+    "section": "Anmeldung",
+    "text": "Anmeldung\nBitte melden Sie sich über Pretix an.\nFragen gerne an data-analytics@stat.uni-muenchen.de.",
+    "crumbs": [
+      "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten"
     ]
   },
   {
@@ -443,33 +473,33 @@
     ]
   },
   {
-    "objectID": "WS3.html",
-    "href": "WS3.html",
-    "title": "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten",
+    "objectID": "WS1.html",
+    "href": "WS1.html",
+    "title": "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
     "section": "",
-    "text": "Ablauf\n*Kick-Off: es muss nur ein Kick-Off-Termin besucht werden.",
+    "text": "Ablauf\nIn dieser Workshop-Serie betrachten wir alle Bestandteile eines klassischen Daten-Analyse-Projekts. Dabei geht es vor allem darum, Berührungsängste abzubauen und Kompetenzen aufzubauen, um als Team solche Projekte anzugehen. Denn Datenarbeit ist Teamarbeit und diverse Expertisen sind gefragt.",
     "crumbs": [
-      "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten"
+      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten"
     ]
   },
   {
-    "objectID": "WS3.html#ablauf",
-    "href": "WS3.html#ablauf",
-    "title": "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten",
+    "objectID": "WS1.html#ablauf",
+    "href": "WS1.html#ablauf",
+    "title": "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
     "section": "",
-    "text": "Veranstaltung\nDatum\nZeit\nOrt\n\n\n\n\nKick-Off 1*\n21.03.\n14:30 - 16:00\nOnline (Zoom)\n\n\nKick-Off 2*\n08.04.\n15:00 - 16:30\nOnline (Zoom)\n\n\nModul 1\n09.04.\n10:00 - 15:30\nLMU\n\n\nModul 2\n10.04.\n10:00 - 15:30\nLMU\n\n\nModul 3\n11.04.\n10:00 - 15:30\nLMU\n\n\nGruppenarbeit 1\n17.04.\n12:00 - 13:30\nOnline (Zoom)\n\n\nGruppenarbeit 2\n24.04.\n12:00 - 13:30\nOnline (Zoom)\n\n\nAbschluss-Vorbereitung\n30.04.\n10:00 - 12:00\nLMU\n\n\nAbschlusstermin\n30.04.\n13:30 - 15:30\nLMU / Hybrid (Zoom)\n\n\n\n\n\nOrte\n\nZoom: Der Zoom-Link wird den Teilnehmenden per Mail mitgeteilt. Sollten Sie keine E-Mail erhalten haben, melden Sie sich bitte bei us (siehe Kontakt).\nLMU: Institut für Statistik der LMU München, Ludwigstr. 33, 4. Stock\n\n\n\nInhalte\nIn dieser Workshop-Serie betrachten wir alle Bestandteile eines klassischen Daten-Analyse-Projekts. Dabei geht es vor allem darum, Berührungsängste abzubauen und Kompetenzen aufzubauen, um als Team solche Projekte anzugehen. Denn Datenarbeit ist Teamarbeit und diverse Expertisen sind gefragt.\nDiese Workshop-Serie ist eine inhaltliche Wiederholung der Workshop-Serie 1.\n\n\n\n\n\n\nLernziele\n\n\n\nAm Ende dieser Workshop-Serie, können Sie…\n\n… einschätzen, welche Fragen in Ihrem Umfeld mit Daten beanwortet werden können.\n… in Projekten mit Daten ihre Fachexpertise einbringen, ohne Berührungsängste zu haben.\n… mit Data Scientists und IT-Personal über Cloud-Computing und Datenanalysen sprechen.\n\n\n\n\nKick-Off\n\n\n\n\n\n\nKick-Off\n\n\n\nAm Ende des Kick-Offs können Sie…\n\n… das Thema der Workshop-Serie beschreiben.\n… den Kontext des Projekts erklären.\n… auf die Cloud-Plattform zugreifen.\n\nSlides",
+    "text": "Lernziele\n\n\n\nAm Ende dieser Workshop-Serie, können Sie…\n\n… einschätzen, welche Fragen in Ihrem Umfeld mit Daten beanwortet werden können.\n… in Projekten mit Daten ihre Fachexpertise einbringen, ohne Berührungsängste zu haben.\n… mit Data Scientists und IT-Personal über Cloud-Computing und Datenanalysen sprechen.",
     "crumbs": [
-      "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten"
+      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten"
     ]
   },
   {
-    "objectID": "WS3.html#anmeldung",
-    "href": "WS3.html#anmeldung",
-    "title": "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten",
+    "objectID": "WS1.html#anmeldung",
+    "href": "WS1.html#anmeldung",
+    "title": "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten",
     "section": "Anmeldung",
-    "text": "Anmeldung\nBitte melden Sie sich über Pretix an.\nFragen gerne an data-analytics@stat.uni-muenchen.de.",
+    "text": "Anmeldung\nHier können Sie sich für die Workshop-Serie anmelden.\n\n\n\n\n\n\nWorkshop-Serie ausgebucht, Warteliste offen\n\n\n\nWir freuen uns über die vielen Anmeldungen, die wir bereits erhalten haben.\nLeider gibt es für diese Workshop-Serie ein Teilnahme-Limit. Wir haben eine Warteliste eingerichtet. Nachrücker erhalten Bescheid, falls sich jemand abmeldet.\nGerne sprechen wir mit Ihnen über Möglichkeiten, weitere Workshops zu organisieren. Schreiben Sie uns gerne eine E-Mail oder sprechen Sie uns persönlich an.",
     "crumbs": [
-      "Workshop Serie 3: Daten-basierte Archivierung von Gerichtsakten"
+      "Workshop Serie 1: Daten-basierte Archivierung von Gerichtsakten"
     ]
   }
 ]
