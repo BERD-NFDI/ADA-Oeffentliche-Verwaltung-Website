@@ -1,22 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Angewandte Datenanalyse für die öffentliche Verwaltung",
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
     "section": "",
-    "text": "ADA Bayern\nIn der öffentlichen Verwaltung liegen vielfältige Daten vor, die potentiell genutzt werden können um Fragen zu beantworten und Probleme zu lösen. Wir können Sie unterstützen dieses Potential zu entfachen.\nIn Workshop-Serien, bei denen wir in Teamarbeit voneinander lernen und Lösungen entwickeln. Denn Data Science ist ein Teamsport, der nicht ohne Sie als Inhaltsexpert:innen funktioniert. Wir stellen eine sichere Cloud-Umgebung bereit, damit wir gemeinsam und effektiv mit den Daten arbeiten können. Dazu nutzen wir Open Source Software und stellen die entstandenen Produkte und Materialien unter offenen Lizenzen zur Verfügung.\nIn der Praxis müssen von der Idee bis zur Umsetzung von Datenprojekten viele Hürden genommen werden. Unser Ziel ist, dass Daten in der öffentlichen Verwaltung effektiver genutzt werden. Wir wollen\nAnhand von konkreten Beispielen aus der Verwaltungspraxis möchten wir Digitalisierung greifbar und interaktiv erlebbar machen.\nHaben Sie ein Problem, das Sie mich uns gemeinsam lösen möchten? Kontaktieren Sie uns!",
+    "text": "Prof. Dr. Frauke Kreuter\nFrauke Kreuter ist Inhaberin des Lehrstuhls für Statistik und Datenwissenschaft an der LMU München, und an der University of Maryland, USA, ist sie Co-Direktorin des Social Data Science Center (SoDa) und Fakultätsmitglied im Joint Program in Survey Methodology (JPSM). Sie ist eine gewählte Fellow der American Statistical Association und erhielt 2020 den Warren Mitofsky Innovators Award der American Association for Public Opinion Research. Neben ihrer akademischen Arbeit ist Frauke Kreuter Gründerin des International Program for Survey and Data Science (IPSDS), das als Reaktion auf die steigende Nachfrage von Forscher:innen und Parktiker:innen nach geeigneten Methoden und Instrumenten für ein sich veränderndes Datenumfeld entwickelt wurde. Sie ist außerdem Mitbegründerin der Coleridge Initiative, deren Ziel es ist, datengestützte Forschung und Politik rund um den Menschen und seine Interaktionen für Programmmanagement, Politikentwicklung und wissenschaftliche Zwecke zu beschleunigen, indem ein effizienter, effektiver und sicherer Zugang zu sensiblen Daten über Gesellschaft und Wirtschaft ermöglicht wird; und Mitbegründerin des deutschsprachigen Podcasts Dig Deep.",
     "crumbs": [
-      "ADA Bayern"
+      "ADA Bayern",
+      "Team"
     ]
   },
   {
-    "objectID": "index.html#ada-bayern",
-    "href": "index.html#ada-bayern",
-    "title": "Angewandte Datenanalyse für die öffentliche Verwaltung",
+    "objectID": "kontakt.html",
+    "href": "kontakt.html",
+    "title": "Kontakt",
     "section": "",
-    "text": "Beschäftigte im öffentlichen Sektor zum (besseren) Umgang mit Daten befähigen,\nDatenkompetenz stärken,\nund so zur Umsetzung von sinnvollen Datenprojekten beitragen.",
+    "text": "Sie erreichen uns unter data-analytics@stat.uni-muenchen.de.\nGerne sprechen wir mit Ihnen auch über zukünftige Workshops.",
     "crumbs": [
-      "ADA Bayern"
+      "ADA Bayern",
+      "Kontakt"
     ]
   },
   {
@@ -369,35 +371,13 @@
     ]
   },
   {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Team",
-    "section": "",
-    "text": "Prof. Dr. Frauke Kreuter\nFrauke Kreuter ist Inhaberin des Lehrstuhls für Statistik und Datenwissenschaft an der LMU München, und an der University of Maryland, USA, ist sie Co-Direktorin des Social Data Science Center (SoDa) und Fakultätsmitglied im Joint Program in Survey Methodology (JPSM). Sie ist eine gewählte Fellow der American Statistical Association und erhielt 2020 den Warren Mitofsky Innovators Award der American Association for Public Opinion Research. Neben ihrer akademischen Arbeit ist Frauke Kreuter Gründerin des International Program for Survey and Data Science (IPSDS), das als Reaktion auf die steigende Nachfrage von Forscher:innen und Parktiker:innen nach geeigneten Methoden und Instrumenten für ein sich veränderndes Datenumfeld entwickelt wurde. Sie ist außerdem Mitbegründerin der Coleridge Initiative, deren Ziel es ist, datengestützte Forschung und Politik rund um den Menschen und seine Interaktionen für Programmmanagement, Politikentwicklung und wissenschaftliche Zwecke zu beschleunigen, indem ein effizienter, effektiver und sicherer Zugang zu sensiblen Daten über Gesellschaft und Wirtschaft ermöglicht wird; und Mitbegründerin des deutschsprachigen Podcasts Dig Deep.",
-    "crumbs": [
-      "Über ADA Bayern",
-      "Team"
-    ]
-  },
-  {
-    "objectID": "kontakt.html",
-    "href": "kontakt.html",
-    "title": "Kontakt",
-    "section": "",
-    "text": "Sie erreichen uns unter data-analytics@stat.uni-muenchen.de.\nGerne sprechen wir mit Ihnen auch über zukünftige Workshops.",
-    "crumbs": [
-      "Über ADA Bayern",
-      "Kontakt"
-    ]
-  },
-  {
     "objectID": "impressum.html",
     "href": "impressum.html",
     "title": "Impressum",
     "section": "",
     "text": "Kontakt\nFrauke Kreuter  Institut für Statistik Ludwigstr. 33 80539 München\nTelefon: +49 89 2180 2814 E-Mail: data-analytics@stat.uni-muenchen.de",
     "crumbs": [
-      "Über ADA Bayern",
+      "Impressum & Kontakt",
       "Impressum"
     ]
   },
@@ -408,8 +388,28 @@
     "section": "Haftungsausschluss",
     "text": "Haftungsausschluss\n\nHaftung für Links\nUnser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.\n\n\nUrheberrecht\nDie durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.\n\n\nDatenschutz\nDie Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben. Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.\nWebsite Impressum erstellt durch impressum-generator.de von der Kanzlei Hasselbach",
     "crumbs": [
-      "Über ADA Bayern",
+      "Impressum & Kontakt",
       "Impressum"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Angewandte Datenanalyse für die öffentliche Verwaltung",
+    "section": "",
+    "text": "ADA Bayern\nIn der öffentlichen Verwaltung liegen vielfältige Daten vor, die potentiell genutzt werden können um Fragen zu beantworten und Probleme zu lösen. Wir können Sie unterstützen dieses Potential zu entfachen.\nIn Workshop-Serien, bei denen wir in Teamarbeit voneinander lernen und Lösungen entwickeln. Denn Data Science ist ein Teamsport, der nicht ohne Sie als Inhaltsexpert:innen funktioniert. Wir stellen eine sichere Cloud-Umgebung bereit, damit wir gemeinsam und effektiv mit den Daten arbeiten können. Dazu nutzen wir Open Source Software und stellen die entstandenen Produkte und Materialien unter offenen Lizenzen zur Verfügung.\nIn der Praxis müssen von der Idee bis zur Umsetzung von Datenprojekten viele Hürden genommen werden. Unser Ziel ist, dass Daten in der öffentlichen Verwaltung effektiver genutzt werden. Wir wollen\nAnhand von konkreten Beispielen aus der Verwaltungspraxis möchten wir Digitalisierung greifbar und interaktiv erlebbar machen.\nHaben Sie ein Problem, das Sie mich uns gemeinsam lösen möchten? Kontaktieren Sie uns!",
+    "crumbs": [
+      "ADA Bayern"
+    ]
+  },
+  {
+    "objectID": "index.html#ada-bayern",
+    "href": "index.html#ada-bayern",
+    "title": "Angewandte Datenanalyse für die öffentliche Verwaltung",
+    "section": "",
+    "text": "Beschäftigte im öffentlichen Sektor zum (besseren) Umgang mit Daten befähigen,\nDatenkompetenz stärken,\nund so zur Umsetzung von sinnvollen Datenprojekten beitragen.",
+    "crumbs": [
+      "ADA Bayern"
     ]
   },
   {
